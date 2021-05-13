@@ -1,5 +1,5 @@
 # WAVE SUMMIT最受欢迎的开发者开源项目评选
-[![Push Rank](https://github.com/Awesome-DeepLearning/WAVESUMMIT-OPT/actions/workflows/main.yml/badge.svg)](https://github.com/Awesome-DeepLearning/WAVESUMMIT-OPT/actions/workflows/main.yml)
+[![更新情况](https://github.com/Awesome-DeepLearning/WAVESUMMIT-OPT/actions/workflows/main.yml/badge.svg)](https://github.com/Awesome-DeepLearning/WAVESUMMIT-OPT/actions/workflows/main.yml)
 
 WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国家工程实验室与百度联合主办。继去年WAVE SUMMI最受欢迎的开发者开源项目评选后，飞桨社区中涌现出了更多优质的开源项目，众多开发者深入平台核心，用技术和努力在社区中撰写着精彩开源篇章。
 
