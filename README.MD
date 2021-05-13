@@ -73,8 +73,8 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | - | -------- | -------- | 
 | 1 | 830 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](ninetailskim/DodgeFace) |
 | 2 | 360 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](AgentMaker/PaTTA) |
-| 3 | 270 | [PPIM：飞桨前沿CV算法复现库](AgentMaker/Paddle-Image-Models) |
-| 4 | 270 | [RLBooks：基于飞桨2.0的强化学习完整教程](AgentMaker/Paddle-RLBooks) |
+| 3 | 280 | [RLBooks：基于飞桨2.0的强化学习完整教程](AgentMaker/Paddle-RLBooks) |
+| 4 | 270 | [PPIM：飞桨前沿CV算法复现库](AgentMaker/Paddle-Image-Models) |
 | 5 | 180 | [全流程可落地的垃圾分类完整方案](thomas-yanxin/the-eye-knows-the-garbage) |
 | 6 | 140 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](AgentMaker/PAPC) |
 | 7 | 140 | [可通过文字来生成图像的DALL-E模型复现](AgentMaker/Paddle-DALL-E) |
@@ -98,11 +98,11 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 1450.0 | AgentMaker |
+| 1 | 1460.0 | AgentMaker |
 | 2 | 939.3 | ninetailskim |
-| 3 | 197.4 | thomas-yanxin |
+| 3 | 197.5 | thomas-yanxin |
 | 4 | 50.5 | kevinfu1717 |
-| 5 | 24.7 | GT-ZhangAcer |
+| 5 | 24.8 | GT-ZhangAcer |
 | 6 | 20.0 | yangguohao |
 
 [^_^]: GT的特殊标识符B-结束  
