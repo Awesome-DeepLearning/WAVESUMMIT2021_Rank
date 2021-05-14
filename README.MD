@@ -73,11 +73,11 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | - | -------- | -------- | 
 | 1 | 860 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 2 | 500 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 3 | 390 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 4 | 310 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 5 | 280 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 3 | 400 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 4 | 320 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 5 | 310 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
 | 6 | 220 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
-| 7 | 170 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
+| 7 | 180 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
 | 8 | 150 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
 | 9 | 130 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
 | 10 | 130 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
@@ -94,8 +94,8 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 21 | 40 | [声纹识别实战教程](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) |
 | 22 | 40 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
 | 23 | 30 | [可支持NES游戏的强化学习教程](https://github.com/yeyupiaoling/ReinforcementLearning) |
-| 24 | 30 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
-| 25 | 20 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
+| 24 | 30 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
+| 25 | 30 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
 | 26 | 20 | [AI量子电路合成源代码](https://github.com/yangguohao/quantum) |
 
 [^_^]: GT的特殊标识符A-结束  
@@ -111,13 +111,13 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 1610.0 | AgentMaker |
-| 2 | 999.9 | ninetailskim |
-| 3 | 990.0 | yeyupiaoling |
-| 4 | 239.1 | thomas-yanxin |
-| 5 | 87.6 | jhcgt4869 |
+| 1 | 1670.0 | AgentMaker |
+| 2 | 1000.0 | yeyupiaoling |
+| 3 | 999.9 | ninetailskim |
+| 4 | 241.0 | thomas-yanxin |
+| 5 | 87.7 | jhcgt4869 |
 | 6 | 50.5 | kevinfu1717 |
-| 7 | 29.3 | GT-ZhangAcer |
+| 7 | 29.8 | GT-ZhangAcer |
 | 8 | 20.0 | yangguohao |
 
 [^_^]: GT的特殊标识符B-结束  
