@@ -72,15 +72,15 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
 | 1 | 860 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 2 | 500 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
+| 2 | 510 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
 | 3 | 400 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 4 | 320 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 4 | 330 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
 | 5 | 310 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
 | 6 | 220 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
 | 7 | 180 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
 | 8 | 150 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
-| 9 | 130 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
-| 10 | 130 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
+| 9 | 140 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
+| 10 | 130 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
 | 11 | 90 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
 | 12 | 90 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
 | 13 | 70 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
@@ -111,13 +111,13 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 1670.0 | AgentMaker |
-| 2 | 1000.0 | yeyupiaoling |
-| 3 | 999.9 | ninetailskim |
-| 4 | 241.0 | thomas-yanxin |
-| 5 | 87.7 | jhcgt4869 |
+| 1 | 1680.0 | AgentMaker |
+| 2 | 1010.0 | ninetailskim |
+| 3 | 1010.0 | yeyupiaoling |
+| 4 | 246.2 | thomas-yanxin |
+| 5 | 87.8 | jhcgt4869 |
 | 6 | 50.5 | kevinfu1717 |
-| 7 | 29.8 | GT-ZhangAcer |
+| 7 | 30.0 | GT-ZhangAcer |
 | 8 | 20.0 | yangguohao |
 
 [^_^]: GT的特殊标识符B-结束  
