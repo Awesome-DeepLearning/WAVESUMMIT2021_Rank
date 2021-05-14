@@ -71,22 +71,22 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 840 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 2 | 480 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 3 | 380 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 4 | 300 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 5 | 270 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
-| 6 | 200 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
-| 7 | 150 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
+| 1 | 860 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
+| 2 | 500 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
+| 3 | 390 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 4 | 310 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 5 | 280 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 6 | 220 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
+| 7 | 170 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
 | 8 | 150 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
 | 9 | 130 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
-| 10 | 120 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
-| 11 | 90 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
-| 12 | 80 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 10 | 130 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
+| 11 | 90 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 12 | 90 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
 | 13 | 70 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
-| 14 | 60 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
-| 15 | 60 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
-| 16 | 50 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
+| 14 | 70 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
+| 15 | 60 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
+| 16 | 60 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
 | 17 | 50 | [可快速入门的端到端语音识别框架](https://github.com/yeyupiaoling/PPASR) |
 | 18 | 50 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
 | 19 | 50 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
@@ -111,13 +111,13 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 1550.0 | AgentMaker |
-| 2 | 969.6 | ninetailskim |
-| 3 | 950.0 | yeyupiaoling |
-| 4 | 218.4 | thomas-yanxin |
-| 5 | 87.1 | jhcgt4869 |
+| 1 | 1610.0 | AgentMaker |
+| 2 | 999.9 | ninetailskim |
+| 3 | 990.0 | yeyupiaoling |
+| 4 | 239.1 | thomas-yanxin |
+| 5 | 87.6 | jhcgt4869 |
 | 6 | 50.5 | kevinfu1717 |
-| 7 | 28.3 | GT-ZhangAcer |
+| 7 | 29.3 | GT-ZhangAcer |
 | 8 | 20.0 | yangguohao |
 
 [^_^]: GT的特殊标识符B-结束  
