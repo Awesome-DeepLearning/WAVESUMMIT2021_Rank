@@ -71,19 +71,21 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 830 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](ninetailskim/DodgeFace) |
-| 2 | 370 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](AgentMaker/PaTTA) |
-| 3 | 290 | [RLBooks：基于飞桨2.0的强化学习完整教程](AgentMaker/Paddle-RLBooks) |
-| 4 | 270 | [PPIM：飞桨前沿CV算法复现库](AgentMaker/Paddle-Image-Models) |
-| 5 | 190 | [全流程可落地的垃圾分类完整方案](thomas-yanxin/the-eye-knows-the-garbage) |
-| 6 | 140 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](AgentMaker/PAPC) |
-| 7 | 140 | [可通过文字来生成图像的DALL-E模型复现](AgentMaker/Paddle-DALL-E) |
-| 8 | 120 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](AgentMaker/Paddle-CLIP) |
-| 9 | 110 | [微信可用的熊猫头表情生成器机器人完整代码](ninetailskim/PandaFaceGenerator) |
-| 10 | 80 | [可通过文字来在线下载图像的IMSP模型复现](AgentMaker/Paddle-IMSP) |
-| 11 | 70 | [飞桨2.0高阶算子合集库](AgentMaker/Paddle-Custom-Operators) |
-| 12 | 50 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](kevinfu1717/multimediaChatbot) |
-| 13 | 20 | [AI量子电路合成源代码](yangguohao/quantum) |
+| 1 | 830 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
+| 2 | 370 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 3 | 290 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 4 | 270 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 5 | 190 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
+| 6 | 140 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
+| 7 | 140 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
+| 8 | 120 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
+| 9 | 110 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
+| 10 | 80 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
+| 11 | 70 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 12 | 50 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
+| 13 | 30 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
+| 14 | 20 | [AI量子电路合成源代码](https://github.com/yangguohao/quantum) |
+| 15 | 20 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
 
 [^_^]: GT的特殊标识符A-结束  
   
@@ -101,9 +103,10 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 1 | 1480.0 | AgentMaker |
 | 2 | 949.4 | ninetailskim |
 | 3 | 207.9 | thomas-yanxin |
-| 4 | 50.5 | kevinfu1717 |
-| 5 | 25.2 | GT-ZhangAcer |
-| 6 | 20.0 | yangguohao |
+| 4 | 66.0 | jhcgt4869 |
+| 5 | 50.5 | kevinfu1717 |
+| 6 | 25.5 | GT-ZhangAcer |
+| 7 | 20.0 | yangguohao |
 
 [^_^]: GT的特殊标识符B-结束  
   
