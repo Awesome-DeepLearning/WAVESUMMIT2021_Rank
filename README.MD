@@ -82,8 +82,8 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 9 | 130 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
 | 10 | 120 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
 | 11 | 90 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
-| 12 | 70 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
-| 13 | 70 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 12 | 80 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 13 | 70 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
 | 14 | 60 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
 | 15 | 60 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
 | 16 | 50 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
@@ -111,13 +111,13 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 1540.0 | AgentMaker |
+| 1 | 1550.0 | AgentMaker |
 | 2 | 969.6 | ninetailskim |
 | 3 | 950.0 | yeyupiaoling |
 | 4 | 218.4 | thomas-yanxin |
 | 5 | 87.1 | jhcgt4869 |
 | 6 | 50.5 | kevinfu1717 |
-| 7 | 28.2 | GT-ZhangAcer |
+| 7 | 28.3 | GT-ZhangAcer |
 | 8 | 20.0 | yangguohao |
 
 [^_^]: GT的特殊标识符B-结束  
