@@ -73,10 +73,10 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | - | -------- | -------- | 
 | 1 | 860 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 2 | 510 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 3 | 400 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 4 | 340 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
-| 5 | 330 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 6 | 220 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
+| 3 | 410 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 4 | 350 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 5 | 340 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 6 | 210 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
 | 7 | 180 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
 | 8 | 150 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
 | 9 | 150 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
@@ -111,13 +111,13 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 1710.0 | AgentMaker |
+| 1 | 1740.0 | AgentMaker |
 | 2 | 1020.1 | ninetailskim |
 | 3 | 1010.0 | yeyupiaoling |
-| 4 | 246.5 | thomas-yanxin |
-| 5 | 108.3 | jhcgt4869 |
+| 4 | 234.5 | thomas-yanxin |
+| 5 | 108.5 | jhcgt4869 |
 | 6 | 50.5 | kevinfu1717 |
-| 7 | 30.5 | GT-ZhangAcer |
+| 7 | 30.7 | GT-ZhangAcer |
 | 8 | 20.0 | yangguohao |
 
 [^_^]: GT的特殊标识符B-结束  
