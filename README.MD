@@ -74,14 +74,14 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 1 | 1120 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
 | 2 | 880 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 3 | 550 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 4 | 490 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 5 | 470 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 6 | 440 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 4 | 500 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 5 | 480 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 6 | 450 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
 | 7 | 242 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
-| 8 | 240 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
-| 9 | 230 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
-| 10 | 210 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
-| 11 | 190 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
+| 8 | 240 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
+| 9 | 240 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
+| 10 | 220 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
+| 11 | 200 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
 | 12 | 170 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
 | 13 | 140 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
 | 14 | 130 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
@@ -116,18 +116,18 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 2300.0 | AgentMaker |
+| 1 | 2360.0 | AgentMaker |
 | 2 | 1160.0 | yeyupiaoling |
 | 3 | 1131.2 | dephrast |
 | 4 | 1060.5 | ninetailskim |
-| 5 | 297.5 | thomas-yanxin |
+| 5 | 298.1 | thomas-yanxin |
 | 6 | 244.4 | Attackzzw |
-| 7 | 159.2 | jhcgt4869 |
+| 7 | 159.6 | jhcgt4869 |
 | 8 | 90.9 | leigangblog |
 | 9 | 70.7 | kevinfu1717 |
-| 10 | 49.7 | GT-ZhangAcer |
+| 10 | 50.2 | GT-ZhangAcer |
 | 11 | 40.4 | yangzepeng0516 |
-| 12 | 31.5 | qeebeast7 |
+| 12 | 32.0 | qeebeast7 |
 | 13 | 20.0 | yangguohao |
 
 [^_^]: GT的特殊标识符B-结束  
