@@ -72,7 +72,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
 | 1 | 870 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 2 | 770 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 2 | 790 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
 | 3 | 530 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
 | 4 | 450 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
 | 5 | 400 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
@@ -119,13 +119,13 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 1 | 1940.0 | AgentMaker |
 | 2 | 1110.0 | yeyupiaoling |
 | 3 | 1050.4 | ninetailskim |
-| 4 | 777.7 | dephrast |
-| 5 | 287.6 | thomas-yanxin |
+| 4 | 797.9 | dephrast |
+| 5 | 287.8 | thomas-yanxin |
 | 6 | 244.4 | Attackzzw |
-| 7 | 127.6 | jhcgt4869 |
+| 7 | 127.8 | jhcgt4869 |
 | 8 | 90.9 | leigangblog |
 | 9 | 60.6 | kevinfu1717 |
-| 10 | 42.5 | GT-ZhangAcer |
+| 10 | 42.7 | GT-ZhangAcer |
 | 11 | 40.4 | yangzepeng0516 |
 | 12 | 28.5 | qeebeast7 |
 | 13 | 20.0 | yangguohao |
