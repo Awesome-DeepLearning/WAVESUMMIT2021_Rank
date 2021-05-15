@@ -91,11 +91,11 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 18 | 80 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
 | 19 | 70 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
 | 20 | 60 | [可快速入门的端到端语音识别框架](https://github.com/yeyupiaoling/PPASR) |
-| 21 | 50 | [[AI创造营]基于PaddleHub的智能工具箱AI Tools](https://github.com/leigangblog/AI_Tools) |
-| 22 | 50 | [可实现人脸识别的MTCNN多任务实战方案](https://github.com/yeyupiaoling/PaddlePaddle-MTCNN) |
-| 23 | 50 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
-| 24 | 50 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
-| 25 | 50 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
+| 21 | 60 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
+| 22 | 60 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
+| 23 | 50 | [[AI创造营]基于PaddleHub的智能工具箱AI Tools](https://github.com/leigangblog/AI_Tools) |
+| 24 | 50 | [可实现人脸识别的MTCNN多任务实战方案](https://github.com/yeyupiaoling/PaddlePaddle-MTCNN) |
+| 25 | 50 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
 | 26 | 40 | [基于Paddlehub与Wechaty的微信小助手--懂懂](https://github.com/leigangblog/Paddlehub_wechaty) |
 | 27 | 40 | [基于VGG的MaskDetection](https://github.com/yangzepeng0516/mask_classification) |
 | 28 | 40 | [可支持NES游戏的强化学习教程](https://github.com/yeyupiaoling/ReinforcementLearning) |
@@ -122,10 +122,10 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 4 | 1060.5 | ninetailskim |
 | 5 | 297.5 | thomas-yanxin |
 | 6 | 244.4 | Attackzzw |
-| 7 | 139.0 | jhcgt4869 |
+| 7 | 159.2 | jhcgt4869 |
 | 8 | 90.9 | leigangblog |
 | 9 | 70.7 | kevinfu1717 |
-| 10 | 49.6 | GT-ZhangAcer |
+| 10 | 49.7 | GT-ZhangAcer |
 | 11 | 40.4 | yangzepeng0516 |
 | 12 | 31.5 | qeebeast7 |
 | 13 | 20.0 | yangguohao |
