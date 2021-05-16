@@ -71,36 +71,36 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 1710 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
-| 2 | 1340 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
+| 1 | 1860 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 2 | 1380 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
 | 3 | 890 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 4 | 570 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 5 | 560 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 6 | 540 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 7 | 520 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
-| 8 | 290 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
-| 9 | 260 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
-| 10 | 250 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
-| 11 | 246 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
-| 12 | 220 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
+| 4 | 610 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 5 | 600 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 6 | 590 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
+| 7 | 550 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 8 | 320 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
+| 9 | 290 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
+| 10 | 280 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
+| 11 | 250 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
+| 12 | 246 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
 | 13 | 190 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
-| 14 | 170 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
-| 15 | 140 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
-| 16 | 110 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
-| 17 | 100 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
-| 18 | 100 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
-| 19 | 100 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
-| 20 | 90 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
-| 21 | 90 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
-| 22 | 70 | [可快速入门的端到端语音识别框架](https://github.com/yeyupiaoling/PPASR) |
-| 23 | 70 | [公共场所吸烟检测系统](https://github.com/thomas-yanxin/Cigarette-Detection) |
-| 24 | 70 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
-| 25 | 70 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
-| 26 | 60 | [[AI创造营]基于PaddleHub的智能工具箱AI Tools](https://github.com/leigangblog/AI_Tools) |
-| 27 | 60 | [可实现人脸识别的MTCNN多任务实战方案](https://github.com/yeyupiaoling/PaddlePaddle-MTCNN) |
-| 28 | 60 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
-| 29 | 60 | [基于PaddleX的垃圾识别工具](https://github.com/thomas-yanxin/Garbage-test) |
-| 30 | 60 | [垃圾分类多组件教程](https://github.com/thomas-yanxin/garbage_classification) |
+| 14 | 180 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
+| 15 | 160 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 16 | 120 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
+| 17 | 120 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
+| 18 | 120 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
+| 19 | 110 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
+| 20 | 110 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
+| 21 | 100 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
+| 22 | 80 | [可快速入门的端到端语音识别框架](https://github.com/yeyupiaoling/PPASR) |
+| 23 | 70 | [[AI创造营]基于PaddleHub的智能工具箱AI Tools](https://github.com/leigangblog/AI_Tools) |
+| 24 | 70 | [可实现人脸识别的MTCNN多任务实战方案](https://github.com/yeyupiaoling/PaddlePaddle-MTCNN) |
+| 25 | 70 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
+| 26 | 70 | [公共场所吸烟检测系统](https://github.com/thomas-yanxin/Cigarette-Detection) |
+| 27 | 70 | [垃圾分类多组件教程](https://github.com/thomas-yanxin/garbage_classification) |
+| 28 | 70 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
+| 29 | 70 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
+| 30 | 60 | [基于PaddleX的垃圾识别工具](https://github.com/thomas-yanxin/Garbage-test) |
 | 31 | 60 | [图形化界面的情感分析系统](https://github.com/hchhtc123/Sentiment-analysis) |
 | 32 | 50 | [声纹识别实战教程](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) |
 | 33 | 50 | [wobushihuair飞桨实战合集](https://github.com/wobushihuair/paddlepaddle_project) |
@@ -124,24 +124,24 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 2810.0 | [AgentMaker](https://github.com/AgentMaker) |
-| 2 | 1727.1 | [dephrast](https://github.com/dephrast) |
-| 3 | 1362.3 | [sunyuqian1997](https://github.com/sunyuqian1997) |
-| 4 | 1270.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
+| 1 | 3080.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 2 | 1878.6 | [dephrast](https://github.com/dephrast) |
+| 3 | 1402.7 | [sunyuqian1997](https://github.com/sunyuqian1997) |
+| 4 | 1400.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
 | 5 | 1090.8 | [ninetailskim](https://github.com/ninetailskim) |
-| 6 | 533.4 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 6 | 569.4 | [thomas-yanxin](https://github.com/thomas-yanxin) |
 | 7 | 248.5 | [Attackzzw](https://github.com/Attackzzw) |
-| 8 | 188.5 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 9 | 120.3 | [hchhtc123](https://github.com/hchhtc123) |
-| 10 | 101.0 | [leigangblog](https://github.com/leigangblog) |
-| 11 | 90.9 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 12 | 76.1 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
-| 13 | 67.3 | [wobushihuair](https://github.com/wobushihuair) |
+| 8 | 220.9 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 9 | 128.8 | [wobushihuair](https://github.com/wobushihuair) |
+| 10 | 124.2 | [hchhtc123](https://github.com/hchhtc123) |
+| 11 | 111.1 | [leigangblog](https://github.com/leigangblog) |
+| 12 | 101.0 | [kevinfu1717](https://github.com/kevinfu1717) |
+| 13 | 81.2 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
 | 14 | 40.4 | [yangzepeng0516](https://github.com/yangzepeng0516) |
-| 15 | 35.2 | [qeebeast7](https://github.com/qeebeast7) |
+| 15 | 37.7 | [qeebeast7](https://github.com/qeebeast7) |
 | 16 | 30.0 | [yangguohao](https://github.com/yangguohao) |
 | 17 | 30.0 | [unseenme](https://github.com/unseenme) |
-| 18 | 5.2 | [mmmahhhhe](https://github.com/mmmahhhhe) |
+| 18 | 5.5 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 
 [^_^]: GT的特殊标识符B-结束  
   
