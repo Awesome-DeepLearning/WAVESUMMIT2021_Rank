@@ -71,44 +71,45 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 1320 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
-| 2 | 880 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 3 | 550 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 4 | 500 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 5 | 480 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 6 | 460 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
-| 7 | 250 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
-| 8 | 242 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
-| 9 | 240 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
-| 10 | 220 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
-| 11 | 200 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
-| 12 | 180 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
-| 13 | 140 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
-| 14 | 130 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
-| 15 | 90 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
-| 16 | 90 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
-| 17 | 90 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
-| 18 | 90 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
-| 19 | 80 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
-| 20 | 70 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
-| 21 | 60 | [可快速入门的端到端语音识别框架](https://github.com/yeyupiaoling/PPASR) |
-| 22 | 60 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
-| 23 | 60 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
-| 24 | 50 | [[AI创造营]基于PaddleHub的智能工具箱AI Tools](https://github.com/leigangblog/AI_Tools) |
-| 25 | 50 | [可实现人脸识别的MTCNN多任务实战方案](https://github.com/yeyupiaoling/PaddlePaddle-MTCNN) |
-| 26 | 50 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
-| 27 | 50 | [公共场所吸烟检测系统](https://github.com/thomas-yanxin/Cigarette-Detection) |
-| 28 | 50 | [垃圾分类多组件教程](https://github.com/thomas-yanxin/garbage_classification) |
-| 29 | 50 | [图形化界面的情感分析系统](https://github.com/hchhtc123/Sentiment-analysis) |
-| 30 | 50 | [wobushihuair飞桨实战合集](https://github.com/wobushihuair/paddlepaddle_project) |
-| 31 | 40 | [基于Paddlehub与Wechaty的微信小助手--懂懂](https://github.com/leigangblog/Paddlehub_wechaty) |
-| 32 | 40 | [基于VGG的MaskDetection](https://github.com/yangzepeng0516/mask_classification) |
-| 33 | 40 | [可支持NES游戏的强化学习教程](https://github.com/yeyupiaoling/ReinforcementLearning) |
-| 34 | 40 | [声纹识别实战教程](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) |
-| 35 | 40 | [基于PaddleX的垃圾识别工具](https://github.com/thomas-yanxin/Garbage-test) |
-| 36 | 30 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
-| 37 | 20 | [AI量子电路合成源代码](https://github.com/yangguohao/quantum) |
-| 38 | 20 | [GYM CarRacing-v0解决方案](https://github.com/unseenme/rl_parl_gym_CarRacing-v0) |
+| 1 | 1370 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 2 | 1230 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
+| 3 | 880 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
+| 4 | 550 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
+| 5 | 500 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 6 | 480 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 7 | 460 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 8 | 250 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
+| 9 | 242 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
+| 10 | 240 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
+| 11 | 220 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
+| 12 | 200 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
+| 13 | 180 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
+| 14 | 140 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
+| 15 | 130 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 16 | 90 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
+| 17 | 90 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
+| 18 | 90 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
+| 19 | 90 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
+| 20 | 80 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
+| 21 | 70 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
+| 22 | 60 | [可快速入门的端到端语音识别框架](https://github.com/yeyupiaoling/PPASR) |
+| 23 | 60 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
+| 24 | 60 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
+| 25 | 50 | [[AI创造营]基于PaddleHub的智能工具箱AI Tools](https://github.com/leigangblog/AI_Tools) |
+| 26 | 50 | [可实现人脸识别的MTCNN多任务实战方案](https://github.com/yeyupiaoling/PaddlePaddle-MTCNN) |
+| 27 | 50 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
+| 28 | 50 | [公共场所吸烟检测系统](https://github.com/thomas-yanxin/Cigarette-Detection) |
+| 29 | 50 | [垃圾分类多组件教程](https://github.com/thomas-yanxin/garbage_classification) |
+| 30 | 50 | [图形化界面的情感分析系统](https://github.com/hchhtc123/Sentiment-analysis) |
+| 31 | 50 | [wobushihuair飞桨实战合集](https://github.com/wobushihuair/paddlepaddle_project) |
+| 32 | 40 | [基于Paddlehub与Wechaty的微信小助手--懂懂](https://github.com/leigangblog/Paddlehub_wechaty) |
+| 33 | 40 | [基于VGG的MaskDetection](https://github.com/yangzepeng0516/mask_classification) |
+| 34 | 40 | [可支持NES游戏的强化学习教程](https://github.com/yeyupiaoling/ReinforcementLearning) |
+| 35 | 40 | [声纹识别实战教程](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) |
+| 36 | 40 | [基于PaddleX的垃圾识别工具](https://github.com/thomas-yanxin/Garbage-test) |
+| 37 | 30 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
+| 38 | 20 | [AI量子电路合成源代码](https://github.com/yangguohao/quantum) |
+| 39 | 20 | [GYM CarRacing-v0解决方案](https://github.com/unseenme/rl_parl_gym_CarRacing-v0) |
 
 [^_^]: GT的特殊标识符A-结束  
   
@@ -124,22 +125,23 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
 | 1 | 2460.0 | AgentMaker |
-| 2 | 1333.2 | dephrast |
-| 3 | 1170.0 | yeyupiaoling |
-| 4 | 1070.6 | ninetailskim |
-| 5 | 451.5 | thomas-yanxin |
-| 6 | 244.4 | Attackzzw |
-| 7 | 161.8 | jhcgt4869 |
-| 8 | 97.6 | hchhtc123 |
-| 9 | 90.9 | leigangblog |
-| 10 | 70.7 | kevinfu1717 |
-| 11 | 66.5 | wobushihuair |
-| 12 | 54.4 | GT-ZhangAcer |
-| 13 | 40.4 | yangzepeng0516 |
-| 14 | 32.2 | qeebeast7 |
-| 15 | 20.0 | yangguohao |
-| 16 | 20.0 | unseenme |
-| 17 | 4.6 | mmmahhhhe |
+| 2 | 1383.7 | dephrast |
+| 3 | 1251.1 | sunyuqian1997 |
+| 4 | 1170.0 | yeyupiaoling |
+| 5 | 1070.6 | ninetailskim |
+| 6 | 452.0 | thomas-yanxin |
+| 7 | 244.4 | Attackzzw |
+| 8 | 162.3 | jhcgt4869 |
+| 9 | 98.1 | hchhtc123 |
+| 10 | 90.9 | leigangblog |
+| 11 | 70.7 | kevinfu1717 |
+| 12 | 67.2 | GT-ZhangAcer |
+| 13 | 66.5 | wobushihuair |
+| 14 | 40.4 | yangzepeng0516 |
+| 15 | 32.2 | qeebeast7 |
+| 16 | 20.0 | yangguohao |
+| 17 | 20.0 | unseenme |
+| 18 | 4.6 | mmmahhhhe |
 
 [^_^]: GT的特殊标识符B-结束  
   
