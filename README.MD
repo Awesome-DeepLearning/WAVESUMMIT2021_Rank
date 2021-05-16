@@ -71,8 +71,8 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 1390 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
-| 2 | 1240 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
+| 1 | 1410 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 2 | 1250 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
 | 3 | 880 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 4 | 550 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
 | 5 | 500 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
@@ -125,17 +125,17 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
 | 1 | 2470.0 | AgentMaker |
-| 2 | 1403.9 | dephrast |
-| 3 | 1261.2 | sunyuqian1997 |
+| 2 | 1424.1 | dephrast |
+| 3 | 1271.3 | sunyuqian1997 |
 | 4 | 1170.0 | yeyupiaoling |
 | 5 | 1070.6 | ninetailskim |
-| 6 | 452.3 | thomas-yanxin |
+| 6 | 465.0 | thomas-yanxin |
 | 7 | 246.4 | Attackzzw |
-| 8 | 162.6 | jhcgt4869 |
-| 9 | 104.0 | hchhtc123 |
+| 8 | 162.8 | jhcgt4869 |
+| 9 | 104.2 | hchhtc123 |
 | 10 | 90.9 | leigangblog |
 | 11 | 80.8 | kevinfu1717 |
-| 12 | 67.6 | GT-ZhangAcer |
+| 12 | 67.9 | GT-ZhangAcer |
 | 13 | 66.5 | wobushihuair |
 | 14 | 40.4 | yangzepeng0516 |
 | 15 | 32.3 | qeebeast7 |
