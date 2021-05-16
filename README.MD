@@ -71,21 +71,21 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 1860 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
-| 2 | 1380 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
+| 1 | 1960 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 2 | 1390 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
 | 3 | 890 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 4 | 620 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 5 | 600 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 6 | 590 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 7 | 550 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
-| 8 | 320 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
-| 9 | 290 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
+| 4 | 610 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 5 | 590 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
+| 6 | 580 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 7 | 560 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 8 | 300 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
+| 9 | 280 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
 | 10 | 280 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
 | 11 | 250 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
 | 12 | 246 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
-| 13 | 190 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
-| 14 | 180 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
-| 15 | 160 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 13 | 190 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
+| 14 | 190 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
+| 15 | 180 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
 | 16 | 120 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
 | 17 | 120 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
 | 18 | 120 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
@@ -124,24 +124,24 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 3090.0 | [AgentMaker](https://github.com/AgentMaker) |
-| 2 | 1878.6 | [dephrast](https://github.com/dephrast) |
-| 3 | 1402.7 | [sunyuqian1997](https://github.com/sunyuqian1997) |
+| 1 | 3070.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 2 | 1979.6 | [dephrast](https://github.com/dephrast) |
+| 3 | 1412.8 | [sunyuqian1997](https://github.com/sunyuqian1997) |
 | 4 | 1400.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
 | 5 | 1090.8 | [ninetailskim](https://github.com/ninetailskim) |
-| 6 | 569.5 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 6 | 570.4 | [thomas-yanxin](https://github.com/thomas-yanxin) |
 | 7 | 248.5 | [Attackzzw](https://github.com/Attackzzw) |
-| 8 | 221.0 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 9 | 128.9 | [wobushihuair](https://github.com/wobushihuair) |
-| 10 | 124.3 | [hchhtc123](https://github.com/hchhtc123) |
+| 8 | 221.7 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 9 | 129.9 | [wobushihuair](https://github.com/wobushihuair) |
+| 10 | 124.9 | [hchhtc123](https://github.com/hchhtc123) |
 | 11 | 111.1 | [leigangblog](https://github.com/leigangblog) |
 | 12 | 101.0 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 13 | 81.3 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 13 | 82.4 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
 | 14 | 40.4 | [yangzepeng0516](https://github.com/yangzepeng0516) |
-| 15 | 37.8 | [qeebeast7](https://github.com/qeebeast7) |
+| 15 | 37.5 | [qeebeast7](https://github.com/qeebeast7) |
 | 16 | 30.0 | [yangguohao](https://github.com/yangguohao) |
 | 17 | 30.0 | [unseenme](https://github.com/unseenme) |
-| 18 | 5.5 | [mmmahhhhe](https://github.com/mmmahhhhe) |
+| 18 | 5.6 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 
 [^_^]: GT的特殊标识符B-结束  
   
