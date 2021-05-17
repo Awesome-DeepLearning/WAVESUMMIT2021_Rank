@@ -87,7 +87,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 14 | 254 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
 | 15 | 220 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
 | 16 | 210 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
-| 17 | 150 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
+| 17 | 160 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
 | 18 | 150 | [决战二仙桥小游戏](https://github.com/ninetailskim/DodgeFace-EXQver) |
 | 19 | 140 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
 | 20 | 140 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
@@ -142,7 +142,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 3690.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 1 | 3700.0 | [AgentMaker](https://github.com/AgentMaker) |
 | 2 | 2131.1 | [dephrast](https://github.com/dephrast) |
 | 3 | 1630.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
 | 4 | 1595.8 | [ninetailskim](https://github.com/ninetailskim) |
@@ -152,21 +152,21 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 8 | 300.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
 | 9 | 277.1 | [jhcgt4869](https://github.com/jhcgt4869) |
 | 10 | 254.4 | [HighCWu](https://github.com/HighCWu) |
-| 11 | 196.4 | [zbp-xxxp](https://github.com/zbp-xxxp) |
+| 11 | 196.5 | [zbp-xxxp](https://github.com/zbp-xxxp) |
 | 12 | 173.7 | [1084667371](https://github.com/1084667371) |
 | 13 | 159.6 | [wobushihuair](https://github.com/wobushihuair) |
 | 14 | 153.5 | [hchhtc123](https://github.com/hchhtc123) |
 | 15 | 151.5 | [leigangblog](https://github.com/leigangblog) |
 | 16 | 131.3 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 17 | 106.7 | [edencfc](https://github.com/edencfc) |
-| 18 | 97.4 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 17 | 106.8 | [edencfc](https://github.com/edencfc) |
+| 18 | 97.5 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
 | 19 | 94.9 | [sqcn](https://github.com/sqcn) |
 | 20 | 78.4 | [qeebeast7](https://github.com/qeebeast7) |
 | 21 | 60.6 | [yangzepeng0516](https://github.com/yangzepeng0516) |
 | 22 | 50.0 | [yangguohao](https://github.com/yangguohao) |
 | 23 | 50.0 | [unseenme](https://github.com/unseenme) |
-| 24 | 36.9 | [geoyee](https://github.com/geoyee) |
-| 25 | 34.8 | [Shelly111111](https://github.com/Shelly111111) |
+| 24 | 37.0 | [geoyee](https://github.com/geoyee) |
+| 25 | 34.9 | [Shelly111111](https://github.com/Shelly111111) |
 | 26 | 8.3 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 
 [^_^]: GT的特殊标识符B-结束  
