@@ -71,15 +71,15 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 2110 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
-| 2 | 1500 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
+| 1 | 2120 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 2 | 1510 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
 | 3 | 940 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 4 | 830 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
-| 5 | 680 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 4 | 840 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 5 | 690 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
 | 6 | 650 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
 | 7 | 620 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
 | 8 | 441.59999999999997 | [Chatbot-AI](https://github.com/Attackzzw/Chatbot-AI) |
-| 9 | 340 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
+| 9 | 350 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
 | 10 | 320 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
 | 11 | 320 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
 | 12 | 290 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
@@ -142,32 +142,32 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 3700.0 | [AgentMaker](https://github.com/AgentMaker) |
-| 2 | 2131.1 | [dephrast](https://github.com/dephrast) |
+| 1 | 3730.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 2 | 2141.2 | [dephrast](https://github.com/dephrast) |
 | 3 | 1630.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
 | 4 | 1595.8 | [ninetailskim](https://github.com/ninetailskim) |
-| 5 | 1524.4 | [sunyuqian1997](https://github.com/sunyuqian1997) |
-| 6 | 702.7 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 5 | 1534.5 | [sunyuqian1997](https://github.com/sunyuqian1997) |
+| 6 | 707.6 | [thomas-yanxin](https://github.com/thomas-yanxin) |
 | 7 | 702.6 | [Attackzzw](https://github.com/Attackzzw) |
 | 8 | 300.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
-| 9 | 277.1 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 10 | 254.4 | [HighCWu](https://github.com/HighCWu) |
-| 11 | 196.5 | [zbp-xxxp](https://github.com/zbp-xxxp) |
-| 12 | 173.7 | [1084667371](https://github.com/1084667371) |
-| 13 | 159.6 | [wobushihuair](https://github.com/wobushihuair) |
-| 14 | 153.5 | [hchhtc123](https://github.com/hchhtc123) |
+| 9 | 277.6 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 10 | 254.5 | [HighCWu](https://github.com/HighCWu) |
+| 11 | 197.0 | [zbp-xxxp](https://github.com/zbp-xxxp) |
+| 12 | 173.9 | [1084667371](https://github.com/1084667371) |
+| 13 | 160.0 | [wobushihuair](https://github.com/wobushihuair) |
+| 14 | 153.9 | [hchhtc123](https://github.com/hchhtc123) |
 | 15 | 151.5 | [leigangblog](https://github.com/leigangblog) |
 | 16 | 131.3 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 17 | 106.8 | [edencfc](https://github.com/edencfc) |
-| 18 | 97.5 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
-| 19 | 94.9 | [sqcn](https://github.com/sqcn) |
-| 20 | 78.4 | [qeebeast7](https://github.com/qeebeast7) |
+| 17 | 107.2 | [edencfc](https://github.com/edencfc) |
+| 18 | 97.9 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 19 | 95.4 | [sqcn](https://github.com/sqcn) |
+| 20 | 78.8 | [qeebeast7](https://github.com/qeebeast7) |
 | 21 | 60.6 | [yangzepeng0516](https://github.com/yangzepeng0516) |
 | 22 | 50.0 | [yangguohao](https://github.com/yangguohao) |
 | 23 | 50.0 | [unseenme](https://github.com/unseenme) |
-| 24 | 37.0 | [geoyee](https://github.com/geoyee) |
-| 25 | 34.9 | [Shelly111111](https://github.com/Shelly111111) |
-| 26 | 8.3 | [mmmahhhhe](https://github.com/mmmahhhhe) |
+| 24 | 37.3 | [geoyee](https://github.com/geoyee) |
+| 25 | 35.2 | [Shelly111111](https://github.com/Shelly111111) |
+| 26 | 8.4 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 
 [^_^]: GT的特殊标识符B-结束  
   
