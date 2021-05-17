@@ -71,13 +71,13 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 2010 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 1 | 2020 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
 | 2 | 1430 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
 | 3 | 900 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 4 | 660 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
 | 5 | 620 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
 | 6 | 600 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 7 | 590 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 7 | 600 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
 | 8 | 431.4 | [Chatbot-AI](https://github.com/Attackzzw/Chatbot-AI) |
 | 9 | 320 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
 | 10 | 300 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
@@ -133,29 +133,29 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 3280.0 | [AgentMaker](https://github.com/AgentMaker) |
-| 2 | 2030.1 | [dephrast](https://github.com/dephrast) |
+| 1 | 3290.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 2 | 2040.2 | [dephrast](https://github.com/dephrast) |
 | 3 | 1453.3 | [sunyuqian1997](https://github.com/sunyuqian1997) |
 | 4 | 1410.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
 | 5 | 1111.0 | [ninetailskim](https://github.com/ninetailskim) |
 | 6 | 688.2 | [Attackzzw](https://github.com/Attackzzw) |
-| 7 | 613.9 | [thomas-yanxin](https://github.com/thomas-yanxin) |
-| 8 | 224.5 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 9 | 165.2 | [zbp-xxxp](https://github.com/zbp-xxxp) |
+| 7 | 614.1 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 8 | 224.7 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 9 | 165.4 | [zbp-xxxp](https://github.com/zbp-xxxp) |
 | 10 | 150.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
-| 11 | 132.8 | [wobushihuair](https://github.com/wobushihuair) |
-| 12 | 127.3 | [hchhtc123](https://github.com/hchhtc123) |
+| 11 | 133.0 | [wobushihuair](https://github.com/wobushihuair) |
+| 12 | 127.5 | [hchhtc123](https://github.com/hchhtc123) |
 | 13 | 111.1 | [leigangblog](https://github.com/leigangblog) |
 | 14 | 101.0 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 15 | 98.0 | [edencfc](https://github.com/edencfc) |
-| 16 | 86.8 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
-| 17 | 82.5 | [sqcn](https://github.com/sqcn) |
-| 18 | 74.0 | [qeebeast7](https://github.com/qeebeast7) |
+| 15 | 98.1 | [edencfc](https://github.com/edencfc) |
+| 16 | 87.0 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 17 | 82.7 | [sqcn](https://github.com/sqcn) |
+| 18 | 74.1 | [qeebeast7](https://github.com/qeebeast7) |
 | 19 | 40.4 | [yangzepeng0516](https://github.com/yangzepeng0516) |
-| 20 | 30.9 | [Shelly111111](https://github.com/Shelly111111) |
+| 20 | 31.0 | [Shelly111111](https://github.com/Shelly111111) |
 | 21 | 30.0 | [yangguohao](https://github.com/yangguohao) |
 | 22 | 30.0 | [unseenme](https://github.com/unseenme) |
-| 23 | 5.9 | [mmmahhhhe](https://github.com/mmmahhhhe) |
+| 23 | 6.0 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 
 [^_^]: GT的特殊标识符B-结束  
   
