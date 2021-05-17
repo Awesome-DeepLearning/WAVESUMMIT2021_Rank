@@ -119,9 +119,9 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 46 | 30 | [AI量子电路合成源代码](https://github.com/yangguohao/quantum) |
 | 47 | 30 | [GYM CarRacing-v0解决方案](https://github.com/unseenme/rl_parl_gym_CarRacing-v0) |
 | 48 | 30 | [ArcFace人脸识别实现方案](https://github.com/GuoQuanhao/arcface-Paddle) |
-| 49 | 30 | [DDIM：图像去噪框架](https://github.com/HighCWu/ddim) |
-| 50 | 30 | [飞桨StyleGAN2模型复现](https://github.com/HighCWu/stylegan2-pytorch2paddle) |
-| 51 | 20 | [PortraitNet复现](https://github.com/GuoQuanhao/PortraitNet-Paddle) |
+| 49 | 30 | [PortraitNet复现](https://github.com/GuoQuanhao/PortraitNet-Paddle) |
+| 50 | 30 | [DDIM：图像去噪框架](https://github.com/HighCWu/ddim) |
+| 51 | 30 | [飞桨StyleGAN2模型复现](https://github.com/HighCWu/stylegan2-pytorch2paddle) |
 | 52 | 20 | [Fcanet复现](https://github.com/GuoQuanhao/fcanet-Paddle) |
 | 53 | 20 | [PSENet复现](https://github.com/GuoQuanhao/PSENet-Paddle) |
 | 54 | 20 | [CRAFT复现](https://github.com/GuoQuanhao/CRAFT-Paddle) |
@@ -152,7 +152,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 8 | 251.1 | [jhcgt4869](https://github.com/jhcgt4869) |
 | 9 | 183.7 | [zbp-xxxp](https://github.com/zbp-xxxp) |
 | 10 | 170.1 | [HighCWu](https://github.com/HighCWu) |
-| 11 | 150.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
+| 11 | 160.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
 | 12 | 137.9 | [wobushihuair](https://github.com/wobushihuair) |
 | 13 | 132.2 | [hchhtc123](https://github.com/hchhtc123) |
 | 14 | 132.1 | [1084667371](https://github.com/1084667371) |
