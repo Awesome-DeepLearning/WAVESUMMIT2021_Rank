@@ -71,8 +71,8 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 1990 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
-| 2 | 1420 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
+| 1 | 2010 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 2 | 1430 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
 | 3 | 900 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 4 | 660 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
 | 5 | 620 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
@@ -134,24 +134,24 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
 | 1 | 3280.0 | [AgentMaker](https://github.com/AgentMaker) |
-| 2 | 2009.9 | [dephrast](https://github.com/dephrast) |
-| 3 | 1443.2 | [sunyuqian1997](https://github.com/sunyuqian1997) |
+| 2 | 2030.1 | [dephrast](https://github.com/dephrast) |
+| 3 | 1453.3 | [sunyuqian1997](https://github.com/sunyuqian1997) |
 | 4 | 1410.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
 | 5 | 1111.0 | [ninetailskim](https://github.com/ninetailskim) |
 | 6 | 688.2 | [Attackzzw](https://github.com/Attackzzw) |
-| 7 | 613.6 | [thomas-yanxin](https://github.com/thomas-yanxin) |
-| 8 | 224.2 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 9 | 164.9 | [zbp-xxxp](https://github.com/zbp-xxxp) |
+| 7 | 613.9 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 8 | 224.5 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 9 | 165.2 | [zbp-xxxp](https://github.com/zbp-xxxp) |
 | 10 | 150.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
-| 11 | 132.5 | [wobushihuair](https://github.com/wobushihuair) |
-| 12 | 127.1 | [hchhtc123](https://github.com/hchhtc123) |
+| 11 | 132.8 | [wobushihuair](https://github.com/wobushihuair) |
+| 12 | 127.3 | [hchhtc123](https://github.com/hchhtc123) |
 | 13 | 111.1 | [leigangblog](https://github.com/leigangblog) |
 | 14 | 101.0 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 15 | 97.7 | [edencfc](https://github.com/edencfc) |
-| 16 | 86.5 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
-| 17 | 82.2 | [sqcn](https://github.com/sqcn) |
-| 18 | 40.4 | [yangzepeng0516](https://github.com/yangzepeng0516) |
-| 19 | 39.6 | [qeebeast7](https://github.com/qeebeast7) |
+| 15 | 98.0 | [edencfc](https://github.com/edencfc) |
+| 16 | 86.8 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 17 | 82.5 | [sqcn](https://github.com/sqcn) |
+| 18 | 74.0 | [qeebeast7](https://github.com/qeebeast7) |
+| 19 | 40.4 | [yangzepeng0516](https://github.com/yangzepeng0516) |
 | 20 | 30.9 | [Shelly111111](https://github.com/Shelly111111) |
 | 21 | 30.0 | [yangguohao](https://github.com/yangguohao) |
 | 22 | 30.0 | [unseenme](https://github.com/unseenme) |
