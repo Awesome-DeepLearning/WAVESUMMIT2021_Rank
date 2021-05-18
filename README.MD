@@ -75,8 +75,8 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 2 | 1346 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
 | 3 | 1000 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
 | 4 | 980 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 5 | 840 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 6 | 780 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 5 | 850 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
+| 6 | 800 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
 | 7 | 680 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
 | 8 | 536 | [Chatbot-AI](https://github.com/Attackzzw/Chatbot-AI) |
 | 9 | 360 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
@@ -153,37 +153,37 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 4400.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 1 | 4430.0 | [AgentMaker](https://github.com/AgentMaker) |
 | 2 | 1756.4 | [ninetailskim](https://github.com/ninetailskim) |
 | 3 | 1740.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
 | 4 | 1605.6 | [sunyuqian1997](https://github.com/sunyuqian1997) |
 | 5 | 1359.5 | [dephrast](https://github.com/dephrast) |
 | 6 | 799.9 | [Attackzzw](https://github.com/Attackzzw) |
-| 7 | 759.3 | [thomas-yanxin](https://github.com/thomas-yanxin) |
-| 8 | 742.9 | [jm12138](https://github.com/jm12138) |
+| 7 | 759.6 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 8 | 743.2 | [jm12138](https://github.com/jm12138) |
 | 9 | 300.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
-| 10 | 298.0 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 10 | 298.3 | [jhcgt4869](https://github.com/jhcgt4869) |
 | 11 | 257.8 | [HighCWu](https://github.com/HighCWu) |
-| 12 | 207.3 | [zbp-xxxp](https://github.com/zbp-xxxp) |
+| 12 | 207.6 | [zbp-xxxp](https://github.com/zbp-xxxp) |
 | 13 | 171.7 | [leigangblog](https://github.com/leigangblog) |
 | 14 | 168.4 | [1084667371](https://github.com/1084667371) |
-| 15 | 159.6 | [wobushihuair](https://github.com/wobushihuair) |
-| 16 | 152.5 | [hchhtc123](https://github.com/hchhtc123) |
-| 17 | 147.5 | [ITerydh](https://github.com/ITerydh) |
-| 18 | 143.8 | [wanghuzhen](https://github.com/wanghuzhen) |
+| 15 | 159.9 | [wobushihuair](https://github.com/wobushihuair) |
+| 16 | 152.8 | [hchhtc123](https://github.com/hchhtc123) |
+| 17 | 147.8 | [ITerydh](https://github.com/ITerydh) |
+| 18 | 144.1 | [wanghuzhen](https://github.com/wanghuzhen) |
 | 19 | 141.4 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 20 | 135.0 | [gold2018](https://github.com/gold2018) |
-| 21 | 119.5 | [geoyee](https://github.com/geoyee) |
-| 22 | 106.9 | [edencfc](https://github.com/edencfc) |
-| 23 | 100.8 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
-| 24 | 98.8 | [qeebeast7](https://github.com/qeebeast7) |
-| 25 | 95.7 | [sqcn](https://github.com/sqcn) |
-| 26 | 82.0 | [wonke](https://github.com/wonke) |
+| 20 | 135.3 | [gold2018](https://github.com/gold2018) |
+| 21 | 119.8 | [geoyee](https://github.com/geoyee) |
+| 22 | 107.2 | [edencfc](https://github.com/edencfc) |
+| 23 | 101.1 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 24 | 99.1 | [qeebeast7](https://github.com/qeebeast7) |
+| 25 | 96.0 | [sqcn](https://github.com/sqcn) |
+| 26 | 82.3 | [wonke](https://github.com/wonke) |
 | 27 | 70.7 | [yangzepeng0516](https://github.com/yangzepeng0516) |
 | 28 | 70.0 | [miraiwk](https://github.com/miraiwk) |
 | 29 | 50.0 | [yangguohao](https://github.com/yangguohao) |
 | 30 | 50.0 | [unseenme](https://github.com/unseenme) |
-| 31 | 40.6 | [Shelly111111](https://github.com/Shelly111111) |
+| 31 | 40.9 | [Shelly111111](https://github.com/Shelly111111) |
 | 32 | 10.0 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 
 [^_^]: GT的特殊标识符B-结束  
