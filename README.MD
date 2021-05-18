@@ -71,10 +71,10 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 1550 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
-| 2 | 1298 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 1 | 1560 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
+| 2 | 1328 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
 | 3 | 960 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
-| 4 | 850 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 4 | 900 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
 | 5 | 700 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
 | 6 | 670 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
 | 7 | 630 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
@@ -118,10 +118,10 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 45 | 60 | [可支持NES游戏的强化学习教程](https://github.com/yeyupiaoling/ReinforcementLearning) |
 | 46 | 60 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
 | 47 | 60 | [UGATIT模型复现](https://github.com/miraiwk/UGATIT-paddle) |
-| 48 | 60 | [车牌识别系统](https://github.com/jm12138/License_plate_recognition) |
-| 49 | 60 | [EdgeBoard小车实战源码](https://github.com/jm12138/eblite_smart_car) |
-| 50 | 60 | [图像去噪模型](https://github.com/HighCWu/denoising-diffusion-paddle) |
-| 51 | 50 | [Perceptual Similarity Metric](https://github.com/AgentMaker/Paddle-PerceptualSimilarity) |
+| 48 | 60 | [Perceptual Similarity Metric](https://github.com/AgentMaker/Paddle-PerceptualSimilarity) |
+| 49 | 60 | [车牌识别系统](https://github.com/jm12138/License_plate_recognition) |
+| 50 | 60 | [EdgeBoard小车实战源码](https://github.com/jm12138/eblite_smart_car) |
+| 51 | 60 | [图像去噪模型](https://github.com/HighCWu/denoising-diffusion-paddle) |
 | 52 | 50 | [AI量子电路合成源代码](https://github.com/yangguohao/quantum) |
 | 53 | 50 | [GYM CarRacing-v0解决方案](https://github.com/unseenme/rl_parl_gym_CarRacing-v0) |
 | 54 | 50 | [ArcFace人脸识别实现方案](https://github.com/GuoQuanhao/arcface-Paddle) |
@@ -135,7 +135,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 62 | 40 | [UGATIT复现](https://github.com/GuoQuanhao/UGATIT-Paddle) |
 | 63 | 40 | [基于PaddleHub的秃头生成器](https://github.com/1084667371/stgan_bald) |
 | 64 | 30 | [视频换天工具](https://github.com/jm12138/SkyAR_Paddle_GUI) |
-| 65 | 20 | [度量学习库](https://github.com/jm12138/metric_learning_paddle) |
+| 65 | 30 | [度量学习库](https://github.com/jm12138/metric_learning_paddle) |
 | 66 | 20 | [AnimeGAN生成工具](https://github.com/jm12138/AnimeGAN_PaddleInference) |
 
 [^_^]: GT的特殊标识符A-结束  
@@ -151,36 +151,36 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 3830.0 | [AgentMaker](https://github.com/AgentMaker) |
-| 2 | 1725.3 | [ninetailskim](https://github.com/ninetailskim) |
+| 1 | 3890.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 2 | 1725.7 | [ninetailskim](https://github.com/ninetailskim) |
 | 3 | 1690.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
-| 4 | 1575.1 | [sunyuqian1997](https://github.com/sunyuqian1997) |
-| 5 | 1311.0 | [dephrast](https://github.com/dephrast) |
+| 4 | 1585.2 | [sunyuqian1997](https://github.com/sunyuqian1997) |
+| 5 | 1341.3 | [dephrast](https://github.com/dephrast) |
 | 6 | 783.8 | [Attackzzw](https://github.com/Attackzzw) |
-| 7 | 722.3 | [thomas-yanxin](https://github.com/thomas-yanxin) |
-| 8 | 457.8 | [jm12138](https://github.com/jm12138) |
+| 7 | 723.2 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 8 | 468.3 | [jm12138](https://github.com/jm12138) |
 | 9 | 300.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
-| 10 | 271.9 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 11 | 254.7 | [HighCWu](https://github.com/HighCWu) |
-| 12 | 200.9 | [zbp-xxxp](https://github.com/zbp-xxxp) |
-| 13 | 167.1 | [1084667371](https://github.com/1084667371) |
-| 14 | 153.3 | [wobushihuair](https://github.com/wobushihuair) |
+| 10 | 272.8 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 11 | 255.8 | [HighCWu](https://github.com/HighCWu) |
+| 12 | 201.8 | [zbp-xxxp](https://github.com/zbp-xxxp) |
+| 13 | 167.5 | [1084667371](https://github.com/1084667371) |
+| 14 | 154.2 | [wobushihuair](https://github.com/wobushihuair) |
 | 15 | 151.5 | [leigangblog](https://github.com/leigangblog) |
-| 16 | 146.9 | [hchhtc123](https://github.com/hchhtc123) |
+| 16 | 147.7 | [hchhtc123](https://github.com/hchhtc123) |
 | 17 | 141.4 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 18 | 127.5 | [gold2018](https://github.com/gold2018) |
-| 19 | 123.0 | [wanghuzhen](https://github.com/wanghuzhen) |
-| 20 | 112.3 | [geoyee](https://github.com/geoyee) |
-| 21 | 101.1 | [edencfc](https://github.com/edencfc) |
-| 22 | 92.9 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
-| 23 | 89.3 | [sqcn](https://github.com/sqcn) |
-| 24 | 71.9 | [qeebeast7](https://github.com/qeebeast7) |
+| 18 | 128.4 | [gold2018](https://github.com/gold2018) |
+| 19 | 123.9 | [wanghuzhen](https://github.com/wanghuzhen) |
+| 20 | 113.2 | [geoyee](https://github.com/geoyee) |
+| 21 | 101.5 | [edencfc](https://github.com/edencfc) |
+| 22 | 93.9 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 23 | 90.2 | [sqcn](https://github.com/sqcn) |
+| 24 | 72.3 | [qeebeast7](https://github.com/qeebeast7) |
 | 25 | 60.6 | [yangzepeng0516](https://github.com/yangzepeng0516) |
 | 26 | 60.0 | [miraiwk](https://github.com/miraiwk) |
 | 27 | 50.0 | [yangguohao](https://github.com/yangguohao) |
 | 28 | 50.0 | [unseenme](https://github.com/unseenme) |
-| 29 | 35.7 | [Shelly111111](https://github.com/Shelly111111) |
-| 30 | 8.5 | [mmmahhhhe](https://github.com/mmmahhhhe) |
+| 29 | 36.2 | [Shelly111111](https://github.com/Shelly111111) |
+| 30 | 9.0 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 
 [^_^]: GT的特殊标识符B-结束  
   
