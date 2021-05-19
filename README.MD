@@ -77,7 +77,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 4 | 1060 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 5 | 1020 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
 | 6 | 970 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 7 | 840 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
+| 7 | 850 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
 | 8 | 568 | [Chatbot-AI](https://github.com/Attackzzw/Chatbot-AI) |
 | 9 | 470 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
 | 10 | 440 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
@@ -119,12 +119,12 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 46 | 130 | [飞桨BigGAN模型复现](https://github.com/HighCWu/anime_biggan_toy) |
 | 47 | 130 | [图像画线稿提取器](https://github.com/1084667371/ExtractLine) |
 | 48 | 120 | [可支持NES游戏的强化学习教程](https://github.com/yeyupiaoling/ReinforcementLearning) |
-| 49 | 120 | [声纹识别实战教程](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) |
-| 50 | 120 | [车牌识别系统](https://github.com/jm12138/License_plate_recognition) |
-| 51 | 120 | [EdgeBoard小车实战源码](https://github.com/jm12138/eblite_smart_car) |
-| 52 | 120 | [图像去噪模型](https://github.com/HighCWu/denoising-diffusion-paddle) |
-| 53 | 110 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
-| 54 | 110 | [遥感影像地块分割解决方案](https://github.com/ITerydh/paddle) |
+| 49 | 120 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
+| 50 | 120 | [声纹识别实战教程](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) |
+| 51 | 120 | [车牌识别系统](https://github.com/jm12138/License_plate_recognition) |
+| 52 | 120 | [EdgeBoard小车实战源码](https://github.com/jm12138/eblite_smart_car) |
+| 53 | 120 | [遥感影像地块分割解决方案](https://github.com/ITerydh/paddle) |
+| 54 | 120 | [图像去噪模型](https://github.com/HighCWu/denoising-diffusion-paddle) |
 | 55 | 110 | [GYM CarRacing-v0解决方案](https://github.com/unseenme/rl_parl_gym_CarRacing-v0) |
 | 56 | 100 | [MuZeroExample](https://github.com/EastSmith/MuZeroExample) |
 | 57 | 100 | [DDIM：图像去噪框架](https://github.com/HighCWu/ddim) |
@@ -158,47 +158,47 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
 | 1 | 5640.0 | [AgentMaker](https://github.com/AgentMaker) |
-| 2 | 2500.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
+| 2 | 2520.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
 | 3 | 2012.7 | [ninetailskim](https://github.com/ninetailskim) |
 | 4 | 1717.5 | [sunyuqian1997](https://github.com/sunyuqian1997) |
 | 5 | 1438.2 | [dephrast](https://github.com/dephrast) |
 | 6 | 1155.9 | [jm12138](https://github.com/jm12138) |
-| 7 | 975.3 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 7 | 975.4 | [thomas-yanxin](https://github.com/thomas-yanxin) |
 | 8 | 838.3 | [Attackzzw](https://github.com/Attackzzw) |
 | 9 | 590.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
-| 10 | 521.2 | [HighCWu](https://github.com/HighCWu) |
-| 11 | 478.4 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 12 | 356.7 | [ITerydh](https://github.com/ITerydh) |
-| 13 | 302.0 | [unseenme](https://github.com/unseenme) |
+| 10 | 521.3 | [HighCWu](https://github.com/HighCWu) |
+| 11 | 478.6 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 12 | 366.9 | [ITerydh](https://github.com/ITerydh) |
+| 13 | 302.3 | [unseenme](https://github.com/unseenme) |
 | 14 | 290.4 | [zbp-xxxp](https://github.com/zbp-xxxp) |
 | 15 | 282.8 | [leigangblog](https://github.com/leigangblog) |
-| 16 | 270.5 | [EastSmith](https://github.com/EastSmith) |
+| 16 | 270.6 | [EastSmith](https://github.com/EastSmith) |
 | 17 | 264.0 | [1084667371](https://github.com/1084667371) |
-| 18 | 244.8 | [wobushihuair](https://github.com/wobushihuair) |
-| 19 | 215.6 | [hchhtc123](https://github.com/hchhtc123) |
+| 18 | 244.9 | [wobushihuair](https://github.com/wobushihuair) |
+| 19 | 215.7 | [hchhtc123](https://github.com/hchhtc123) |
 | 20 | 211.8 | [TowerToSky](https://github.com/TowerToSky) |
 | 21 | 202.0 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 22 | 193.3 | [wanghuzhen](https://github.com/wanghuzhen) |
-| 23 | 193.3 | [QiuKaiyyds](https://github.com/QiuKaiyyds) |
-| 24 | 193.3 | [geoyee](https://github.com/geoyee) |
-| 25 | 181.5 | [gold2018](https://github.com/gold2018) |
-| 26 | 174.7 | [XS30](https://github.com/XS30) |
-| 27 | 166.8 | [sqcn](https://github.com/sqcn) |
+| 22 | 193.6 | [wanghuzhen](https://github.com/wanghuzhen) |
+| 23 | 193.6 | [QiuKaiyyds](https://github.com/QiuKaiyyds) |
+| 24 | 193.6 | [geoyee](https://github.com/geoyee) |
+| 25 | 181.7 | [gold2018](https://github.com/gold2018) |
+| 26 | 175.0 | [XS30](https://github.com/XS30) |
+| 27 | 167.0 | [sqcn](https://github.com/sqcn) |
 | 28 | 160.9 | [Fly-hub](https://github.com/Fly-hub) |
-| 29 | 131.9 | [edencfc](https://github.com/edencfc) |
+| 29 | 132.1 | [edencfc](https://github.com/edencfc) |
 | 30 | 131.3 | [yangzepeng0516](https://github.com/yangzepeng0516) |
 | 31 | 130.0 | [miraiwk](https://github.com/miraiwk) |
 | 32 | 129.6 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
-| 33 | 114.4 | [qeebeast7](https://github.com/qeebeast7) |
-| 34 | 100.2 | [corn886-debug](https://github.com/corn886-debug) |
-| 35 | 93.7 | [wonke](https://github.com/wonke) |
+| 33 | 114.5 | [qeebeast7](https://github.com/qeebeast7) |
+| 34 | 100.3 | [corn886-debug](https://github.com/corn886-debug) |
+| 35 | 93.8 | [wonke](https://github.com/wonke) |
 | 36 | 90.0 | [yangguohao](https://github.com/yangguohao) |
-| 37 | 84.5 | [lmc6](https://github.com/lmc6) |
-| 38 | 76.4 | [YuBCS-Ma](https://github.com/YuBCS-Ma) |
-| 39 | 76.1 | [Samoyed-yeah](https://github.com/Samoyed-yeah) |
+| 37 | 84.7 | [lmc6](https://github.com/lmc6) |
+| 38 | 76.5 | [YuBCS-Ma](https://github.com/YuBCS-Ma) |
+| 39 | 76.2 | [Samoyed-yeah](https://github.com/Samoyed-yeah) |
 | 40 | 50.8 | [Shelly111111](https://github.com/Shelly111111) |
 | 41 | 47.2 | [Zhaobo19](https://github.com/Zhaobo19) |
-| 42 | 37.4 | [cjh3020889729](https://github.com/cjh3020889729) |
+| 42 | 37.5 | [cjh3020889729](https://github.com/cjh3020889729) |
 | 43 | 12.1 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 | 44 | 4.7 | [zhangxixi1225](https://github.com/zhangxixi1225) |
 
