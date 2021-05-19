@@ -78,7 +78,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 5 | 1020 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
 | 6 | 970 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
 | 7 | 820 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 8 | 564 | [Chatbot-AI](https://github.com/Attackzzw/Chatbot-AI) |
+| 8 | 568 | [Chatbot-AI](https://github.com/Attackzzw/Chatbot-AI) |
 | 9 | 470 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
 | 10 | 440 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
 | 11 | 400 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
@@ -164,7 +164,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 5 | 1438.2 | [dephrast](https://github.com/dephrast) |
 | 6 | 1155.9 | [jm12138](https://github.com/jm12138) |
 | 7 | 975.1 | [thomas-yanxin](https://github.com/thomas-yanxin) |
-| 8 | 834.3 | [Attackzzw](https://github.com/Attackzzw) |
+| 8 | 838.3 | [Attackzzw](https://github.com/Attackzzw) |
 | 9 | 570.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
 | 10 | 479.0 | [HighCWu](https://github.com/HighCWu) |
 | 11 | 478.1 | [jhcgt4869](https://github.com/jhcgt4869) |
