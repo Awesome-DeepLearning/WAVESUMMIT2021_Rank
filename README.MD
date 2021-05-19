@@ -73,7 +73,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | - | -------- | -------- | 
 | 1 | 1690 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
 | 2 | 1424 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
-| 3 | 1210 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 3 | 1220 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
 | 4 | 1060 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 5 | 1020 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
 | 6 | 970 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
@@ -157,49 +157,49 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 5710.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 1 | 5720.0 | [AgentMaker](https://github.com/AgentMaker) |
 | 2 | 2540.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
-| 3 | 2022.8 | [ninetailskim](https://github.com/ninetailskim) |
+| 3 | 2022.9 | [ninetailskim](https://github.com/ninetailskim) |
 | 4 | 1717.5 | [sunyuqian1997](https://github.com/sunyuqian1997) |
 | 5 | 1438.2 | [dephrast](https://github.com/dephrast) |
-| 6 | 1156.5 | [jm12138](https://github.com/jm12138) |
-| 7 | 976.4 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 6 | 1158.6 | [jm12138](https://github.com/jm12138) |
+| 7 | 976.5 | [thomas-yanxin](https://github.com/thomas-yanxin) |
 | 8 | 840.3 | [Attackzzw](https://github.com/Attackzzw) |
 | 9 | 590.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
-| 10 | 521.6 | [HighCWu](https://github.com/HighCWu) |
-| 11 | 479.4 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 12 | 367.5 | [ITerydh](https://github.com/ITerydh) |
-| 13 | 303.4 | [unseenme](https://github.com/unseenme) |
-| 14 | 291.4 | [zbp-xxxp](https://github.com/zbp-xxxp) |
+| 10 | 521.7 | [HighCWu](https://github.com/HighCWu) |
+| 11 | 479.5 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 12 | 367.6 | [ITerydh](https://github.com/ITerydh) |
+| 13 | 303.5 | [unseenme](https://github.com/unseenme) |
+| 14 | 291.5 | [zbp-xxxp](https://github.com/zbp-xxxp) |
 | 15 | 282.8 | [leigangblog](https://github.com/leigangblog) |
-| 16 | 270.8 | [EastSmith](https://github.com/EastSmith) |
+| 16 | 270.9 | [EastSmith](https://github.com/EastSmith) |
 | 17 | 264.1 | [1084667371](https://github.com/1084667371) |
-| 18 | 245.2 | [wobushihuair](https://github.com/wobushihuair) |
-| 19 | 216.0 | [hchhtc123](https://github.com/hchhtc123) |
-| 20 | 212.8 | [TowerToSky](https://github.com/TowerToSky) |
+| 18 | 245.3 | [wobushihuair](https://github.com/wobushihuair) |
+| 19 | 216.1 | [hchhtc123](https://github.com/hchhtc123) |
+| 20 | 212.9 | [TowerToSky](https://github.com/TowerToSky) |
 | 21 | 202.0 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 22 | 194.7 | [wanghuzhen](https://github.com/wanghuzhen) |
-| 23 | 194.7 | [QiuKaiyyds](https://github.com/QiuKaiyyds) |
-| 24 | 194.7 | [geoyee](https://github.com/geoyee) |
-| 25 | 182.8 | [gold2018](https://github.com/gold2018) |
-| 26 | 175.9 | [XS30](https://github.com/XS30) |
-| 27 | 167.9 | [sqcn](https://github.com/sqcn) |
+| 22 | 194.8 | [wanghuzhen](https://github.com/wanghuzhen) |
+| 23 | 194.8 | [QiuKaiyyds](https://github.com/QiuKaiyyds) |
+| 24 | 194.8 | [geoyee](https://github.com/geoyee) |
+| 25 | 182.9 | [gold2018](https://github.com/gold2018) |
+| 26 | 176.0 | [XS30](https://github.com/XS30) |
+| 27 | 168.0 | [sqcn](https://github.com/sqcn) |
 | 28 | 161.0 | [Fly-hub](https://github.com/Fly-hub) |
 | 29 | 133.0 | [edencfc](https://github.com/edencfc) |
 | 30 | 131.3 | [yangzepeng0516](https://github.com/yangzepeng0516) |
-| 31 | 130.4 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 31 | 130.5 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
 | 32 | 130.0 | [miraiwk](https://github.com/miraiwk) |
-| 33 | 129.9 | [wonke](https://github.com/wonke) |
-| 34 | 115.1 | [qeebeast7](https://github.com/qeebeast7) |
-| 35 | 100.6 | [corn886-debug](https://github.com/corn886-debug) |
+| 33 | 130.0 | [wonke](https://github.com/wonke) |
+| 34 | 115.2 | [qeebeast7](https://github.com/qeebeast7) |
+| 35 | 100.7 | [corn886-debug](https://github.com/corn886-debug) |
 | 36 | 90.0 | [yangguohao](https://github.com/yangguohao) |
-| 37 | 84.7 | [lmc6](https://github.com/lmc6) |
-| 38 | 76.8 | [YuBCS-Ma](https://github.com/YuBCS-Ma) |
-| 39 | 76.2 | [Samoyed-yeah](https://github.com/Samoyed-yeah) |
-| 40 | 51.3 | [Shelly111111](https://github.com/Shelly111111) |
-| 41 | 47.5 | [Zhaobo19](https://github.com/Zhaobo19) |
+| 37 | 84.8 | [lmc6](https://github.com/lmc6) |
+| 38 | 76.9 | [YuBCS-Ma](https://github.com/YuBCS-Ma) |
+| 39 | 76.3 | [Samoyed-yeah](https://github.com/Samoyed-yeah) |
+| 40 | 51.4 | [Shelly111111](https://github.com/Shelly111111) |
+| 41 | 47.6 | [Zhaobo19](https://github.com/Zhaobo19) |
 | 42 | 37.5 | [cjh3020889729](https://github.com/cjh3020889729) |
-| 43 | 12.1 | [mmmahhhhe](https://github.com/mmmahhhhe) |
+| 43 | 12.2 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 | 44 | 4.8 | [zhangxixi1225](https://github.com/zhangxixi1225) |
 
 [^_^]: GT的特殊标识符B-结束  
