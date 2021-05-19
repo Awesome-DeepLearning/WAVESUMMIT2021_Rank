@@ -71,78 +71,78 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
         
 | 排名 | 当前得分 | GitHub项目 | 
 | - | -------- | -------- | 
-| 1 | 1680 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
-| 2 | 1412 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
-| 3 | 1200 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
+| 1 | 1690 | [未来地球流浪者微信Bot](https://github.com/sunyuqian1997/WanderBot_public) |
+| 2 | 1418 | [Wechaty社区大使带你玩转专属微信Bot](https://github.com/dephrast/botbay) |
+| 3 | 1210 | [PPIM：飞桨前沿CV算法复现库](https://github.com/AgentMaker/Paddle-Image-Models) |
 | 4 | 1060 | [【AI创造营】是极客就坚持100秒 - 超火的AI小游戏](https://github.com/ninetailskim/DodgeFace) |
 | 5 | 1020 | [PaTTA：可用于比赛快速提分的TTA模型强化工具](https://github.com/AgentMaker/PaTTA) |
-| 6 | 960 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
-| 7 | 800 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
-| 8 | 560 | [Chatbot-AI](https://github.com/Attackzzw/Chatbot-AI) |
+| 6 | 970 | [RLBooks：基于飞桨2.0的强化学习完整教程](https://github.com/AgentMaker/Paddle-RLBooks) |
+| 7 | 810 | [基于DeepSpeech实现的语音识别框架](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) |
+| 8 | 564 | [Chatbot-AI](https://github.com/Attackzzw/Chatbot-AI) |
 | 9 | 470 | [基于飞桨2.0的3D点云处理库，可实现3D分类、分割、目标检测](https://github.com/AgentMaker/PAPC) |
-| 10 | 420 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
+| 10 | 430 | [可通过文字来生成图像的DALL-E模型复现](https://github.com/AgentMaker/Paddle-DALL-E) |
 | 11 | 400 | [全流程可落地的垃圾分类完整方案](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) |
 | 12 | 380 | [Zero-Shot的CLIP模型，无需训练也能有不错效果的分类模型](https://github.com/AgentMaker/Paddle-CLIP) |
 | 13 | 330 | [微信可用的熊猫头表情生成器机器人完整代码](https://github.com/ninetailskim/PandaFaceGenerator) |
-| 14 | 290 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
-| 15 | 290 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
-| 16 | 260 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
-| 17 | 230 | [Perceptual Similarity Metric](https://github.com/AgentMaker/Paddle-PerceptualSimilarity) |
-| 18 | 230 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
-| 19 | 220 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
-| 20 | 220 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
-| 21 | 210 | [目标跟踪算法](https://github.com/jm12138/deep_sort_paddle) |
-| 22 | 190 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
-| 23 | 190 | [决战二仙桥小游戏](https://github.com/ninetailskim/DodgeFace-EXQver) |
-| 24 | 190 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
-| 25 | 180 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
-| 26 | 170 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
-| 27 | 170 | [高阶数据增强手势识别](https://github.com/ninetailskim/GestureRecognitionWithDA) |
-| 28 | 160 | [【AI创造营】当二仙桥遇上印尼电信广告](https://github.com/ninetailskim/EXQ_IndonesiaVer) |
-| 29 | 150 | [可快速入门的端到端语音识别框架](https://github.com/yeyupiaoling/PPASR) |
-| 30 | 150 | [zbp-xxxp的AI模块合集](https://github.com/zbp-xxxp/meaningfulModuleOfAI) |
-| 31 | 140 | [[AI创造营]基于PaddleHub的智能工具箱AI Tools](https://github.com/leigangblog/AI_Tools) |
-| 32 | 140 | [可实现人脸识别的MTCNN多任务实战方案](https://github.com/yeyupiaoling/PaddlePaddle-MTCNN) |
-| 33 | 140 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
-| 34 | 140 | [CPM-Generate](https://github.com/jm12138/CPM-Generate-Paddle) |
-| 35 | 140 | [公共场所吸烟检测系统](https://github.com/thomas-yanxin/Cigarette-Detection) |
-| 36 | 140 | [垃圾分类多组件教程](https://github.com/thomas-yanxin/garbage_classification) |
-| 37 | 140 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
-| 38 | 130 | [基于PaddleX的垃圾识别工具](https://github.com/thomas-yanxin/Garbage-test) |
-| 39 | 130 | [wobushihuair飞桨实战合集](https://github.com/wobushihuair/paddlepaddle_project) |
-| 40 | 120 | [基于Paddlehub与Wechaty的微信小助手--懂懂](https://github.com/leigangblog/Paddlehub_wechaty) |
-| 41 | 120 | [基于VGG的MaskDetection](https://github.com/yangzepeng0516/mask_classification) |
-| 42 | 120 | [UGATIT模型复现](https://github.com/miraiwk/UGATIT-paddle) |
-| 43 | 120 | [深度学习Python入门基础](https://github.com/ITerydh/PaddlePaddle-Python-Zero-Based) |
-| 44 | 120 | [图形化界面的情感分析系统](https://github.com/hchhtc123/Sentiment-analysis) |
-| 45 | 120 | [图像画线稿提取器](https://github.com/1084667371/ExtractLine) |
-| 46 | 110 | [可支持NES游戏的强化学习教程](https://github.com/yeyupiaoling/ReinforcementLearning) |
-| 47 | 110 | [声纹识别实战教程](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) |
-| 48 | 110 | [车牌识别系统](https://github.com/jm12138/License_plate_recognition) |
-| 49 | 110 | [EdgeBoard小车实战源码](https://github.com/jm12138/eblite_smart_car) |
-| 50 | 110 | [3DResnet实现](https://github.com/Fly-hub/3dresnet0.2) |
-| 51 | 110 | [飞桨BigGAN模型复现](https://github.com/HighCWu/anime_biggan_toy) |
-| 52 | 100 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
-| 53 | 100 | [遥感影像地块分割解决方案](https://github.com/ITerydh/paddle) |
-| 54 | 100 | [图像去噪模型](https://github.com/HighCWu/denoising-diffusion-paddle) |
-| 55 | 90 | [GYM CarRacing-v0解决方案](https://github.com/unseenme/rl_parl_gym_CarRacing-v0) |
-| 56 | 80 | [视频换天工具](https://github.com/jm12138/SkyAR_Paddle_GUI) |
-| 57 | 80 | [度量学习库](https://github.com/jm12138/metric_learning_paddle) |
-| 58 | 80 | [AI量子电路合成源代码](https://github.com/yangguohao/quantum) |
-| 59 | 80 | [MuZeroExample](https://github.com/EastSmith/MuZeroExample) |
-| 60 | 80 | [ArcFace人脸识别实现方案](https://github.com/GuoQuanhao/arcface-Paddle) |
-| 61 | 80 | [PortraitNet复现](https://github.com/GuoQuanhao/PortraitNet-Paddle) |
-| 62 | 80 | [DDIM：图像去噪框架](https://github.com/HighCWu/ddim) |
-| 63 | 80 | [飞桨StyleGAN2模型复现](https://github.com/HighCWu/stylegan2-pytorch2paddle) |
-| 64 | 70 | [喀纳斯风景生成器](https://github.com/TowerToSky/LSGAN-) |
-| 65 | 70 | [Fcanet复现](https://github.com/GuoQuanhao/fcanet-Paddle) |
-| 66 | 70 | [PSENet复现](https://github.com/GuoQuanhao/PSENet-Paddle) |
-| 67 | 70 | [飞桨简明教程](https://github.com/GuoQuanhao/PaddlePaddle-basic-tutorial) |
-| 68 | 70 | [UGATIT复现](https://github.com/GuoQuanhao/UGATIT-Paddle) |
-| 69 | 60 | [AnimeGAN生成工具](https://github.com/jm12138/AnimeGAN_PaddleInference) |
-| 70 | 60 | [AlphaZero Gomoku](https://github.com/EastSmith/AlphaZero_Gomoku_PaddlePaddle) |
-| 71 | 60 | [CRAFT复现](https://github.com/GuoQuanhao/CRAFT-Paddle) |
-| 72 | 60 | [基于PaddleHub的秃头生成器](https://github.com/1084667371/stgan_bald) |
+| 14 | 300 | [飞桨2.0高阶算子合集库](https://github.com/AgentMaker/Paddle-Custom-Operators) |
+| 15 | 300 | [可通过文字来在线下载图像的IMSP模型复现](https://github.com/AgentMaker/Paddle-IMSP) |
+| 16 | 262 | [-AI-emmmm](https://github.com/Attackzzw/-AI-emmmm) |
+| 17 | 240 | [人流密度检测方案](https://github.com/yeyupiaoling/PaddlePaddle-CrowdNet) |
+| 18 | 240 | [Perceptual Similarity Metric](https://github.com/AgentMaker/Paddle-PerceptualSimilarity) |
+| 19 | 240 | [PPQI.jl：支持Julia语言的飞桨快速推理库](https://github.com/AgentMaker/PPQI.jl) |
+| 20 | 230 | [飞桨Fluid版本的SSD实现教程](https://github.com/yeyupiaoling/PaddlePaddle-SSD) |
+| 21 | 220 | [目标跟踪算法](https://github.com/jm12138/deep_sort_paddle) |
+| 22 | 200 | [飞桨2.0OCR识别案例](https://github.com/yeyupiaoling/PaddlePaddle-CRNN) |
+| 23 | 200 | [决战二仙桥小游戏](https://github.com/ninetailskim/DodgeFace-EXQver) |
+| 24 | 200 | [多轮对话场景的对话的微信聊天机器人，甚至可以对对联](https://github.com/kevinfu1717/multimediaChatbot) |
+| 25 | 190 | [高阶数据增强手势识别](https://github.com/ninetailskim/GestureRecognitionWithDA) |
+| 26 | 190 | [李宏毅老师系列课程三岁白话系列](https://github.com/jhcgt4869/LiHongyi_curriculum_experience) |
+| 27 | 180 | [飞桨静态图版本的PPYOLO实现完整代码](https://github.com/yeyupiaoling/PP-YOLO) |
+| 28 | 170 | [【AI创造营】当二仙桥遇上印尼电信广告](https://github.com/ninetailskim/EXQ_IndonesiaVer) |
+| 29 | 160 | [可快速入门的端到端语音识别框架](https://github.com/yeyupiaoling/PPASR) |
+| 30 | 160 | [zbp-xxxp的AI模块合集](https://github.com/zbp-xxxp/meaningfulModuleOfAI) |
+| 31 | 150 | [[AI创造营]基于PaddleHub的智能工具箱AI Tools](https://github.com/leigangblog/AI_Tools) |
+| 32 | 150 | [可实现人脸识别的MTCNN多任务实战方案](https://github.com/yeyupiaoling/PaddlePaddle-MTCNN) |
+| 33 | 150 | [移动端人脸识别方案](https://github.com/yeyupiaoling/PaddlePaddle-MobileFaceNets) |
+| 34 | 150 | [CPM-Generate](https://github.com/jm12138/CPM-Generate-Paddle) |
+| 35 | 150 | [公共场所吸烟检测系统](https://github.com/thomas-yanxin/Cigarette-Detection) |
+| 36 | 150 | [垃圾分类多组件教程](https://github.com/thomas-yanxin/garbage_classification) |
+| 37 | 150 | [螺旋桨RNA结构预测竞赛解决方案](https://github.com/jhcgt4869/Unpaired_Probability_Prediction_The_first_ten) |
+| 38 | 140 | [基于PaddleX的垃圾识别工具](https://github.com/thomas-yanxin/Garbage-test) |
+| 39 | 140 | [wobushihuair飞桨实战合集](https://github.com/wobushihuair/paddlepaddle_project) |
+| 40 | 130 | [基于Paddlehub与Wechaty的微信小助手--懂懂](https://github.com/leigangblog/Paddlehub_wechaty) |
+| 41 | 130 | [基于VGG的MaskDetection](https://github.com/yangzepeng0516/mask_classification) |
+| 42 | 130 | [UGATIT模型复现](https://github.com/miraiwk/UGATIT-paddle) |
+| 43 | 130 | [深度学习Python入门基础](https://github.com/ITerydh/PaddlePaddle-Python-Zero-Based) |
+| 44 | 130 | [图形化界面的情感分析系统](https://github.com/hchhtc123/Sentiment-analysis) |
+| 45 | 120 | [可支持NES游戏的强化学习教程](https://github.com/yeyupiaoling/ReinforcementLearning) |
+| 46 | 120 | [声纹识别实战教程](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) |
+| 47 | 120 | [车牌识别系统](https://github.com/jm12138/License_plate_recognition) |
+| 48 | 120 | [EdgeBoard小车实战源码](https://github.com/jm12138/eblite_smart_car) |
+| 49 | 120 | [3DResnet实现](https://github.com/Fly-hub/3dresnet0.2) |
+| 50 | 120 | [飞桨BigGAN模型复现](https://github.com/HighCWu/anime_biggan_toy) |
+| 51 | 120 | [图像画线稿提取器](https://github.com/1084667371/ExtractLine) |
+| 52 | 110 | [音频分类全流程实战](https://github.com/yeyupiaoling/AudioClassification-PaddlePaddle) |
+| 53 | 110 | [遥感影像地块分割解决方案](https://github.com/ITerydh/paddle) |
+| 54 | 110 | [图像去噪模型](https://github.com/HighCWu/denoising-diffusion-paddle) |
+| 55 | 100 | [GYM CarRacing-v0解决方案](https://github.com/unseenme/rl_parl_gym_CarRacing-v0) |
+| 56 | 90 | [视频换天工具](https://github.com/jm12138/SkyAR_Paddle_GUI) |
+| 57 | 90 | [度量学习库](https://github.com/jm12138/metric_learning_paddle) |
+| 58 | 90 | [AI量子电路合成源代码](https://github.com/yangguohao/quantum) |
+| 59 | 90 | [MuZeroExample](https://github.com/EastSmith/MuZeroExample) |
+| 60 | 90 | [ArcFace人脸识别实现方案](https://github.com/GuoQuanhao/arcface-Paddle) |
+| 61 | 90 | [PortraitNet复现](https://github.com/GuoQuanhao/PortraitNet-Paddle) |
+| 62 | 90 | [DDIM：图像去噪框架](https://github.com/HighCWu/ddim) |
+| 63 | 90 | [飞桨StyleGAN2模型复现](https://github.com/HighCWu/stylegan2-pytorch2paddle) |
+| 64 | 80 | [喀纳斯风景生成器](https://github.com/TowerToSky/LSGAN-) |
+| 65 | 80 | [Fcanet复现](https://github.com/GuoQuanhao/fcanet-Paddle) |
+| 66 | 80 | [PSENet复现](https://github.com/GuoQuanhao/PSENet-Paddle) |
+| 67 | 80 | [飞桨简明教程](https://github.com/GuoQuanhao/PaddlePaddle-basic-tutorial) |
+| 68 | 80 | [UGATIT复现](https://github.com/GuoQuanhao/UGATIT-Paddle) |
+| 69 | 70 | [AnimeGAN生成工具](https://github.com/jm12138/AnimeGAN_PaddleInference) |
+| 70 | 70 | [AlphaZero Gomoku](https://github.com/EastSmith/AlphaZero_Gomoku_PaddlePaddle) |
+| 71 | 70 | [CRAFT复现](https://github.com/GuoQuanhao/CRAFT-Paddle) |
+| 72 | 70 | [基于PaddleHub的秃头生成器](https://github.com/1084667371/stgan_bald) |
 
 [^_^]: GT的特殊标识符A-结束  
   
@@ -157,49 +157,49 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 
 | 排名 | 当前得分 | GitHub-ID | 
 | - | -------- | -------- | 
-| 1 | 5490.0 | [AgentMaker](https://github.com/AgentMaker) |
-| 2 | 2350.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
-| 3 | 1972.0 | [ninetailskim](https://github.com/ninetailskim) |
-| 4 | 1707.4 | [sunyuqian1997](https://github.com/sunyuqian1997) |
-| 5 | 1426.1 | [dephrast](https://github.com/dephrast) |
-| 6 | 1082.6 | [jm12138](https://github.com/jm12138) |
-| 7 | 942.1 | [thomas-yanxin](https://github.com/thomas-yanxin) |
-| 8 | 828.2 | [Attackzzw](https://github.com/Attackzzw) |
-| 9 | 500.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
-| 10 | 454.7 | [jhcgt4869](https://github.com/jhcgt4869) |
-| 11 | 436.1 | [HighCWu](https://github.com/HighCWu) |
-| 12 | 334.9 | [ITerydh](https://github.com/ITerydh) |
-| 13 | 277.2 | [zbp-xxxp](https://github.com/zbp-xxxp) |
-| 14 | 262.6 | [leigangblog](https://github.com/leigangblog) |
-| 15 | 238.9 | [EastSmith](https://github.com/EastSmith) |
-| 16 | 233.2 | [1084667371](https://github.com/1084667371) |
-| 17 | 233.0 | [wobushihuair](https://github.com/wobushihuair) |
-| 18 | 204.4 | [hchhtc123](https://github.com/hchhtc123) |
-| 19 | 191.9 | [kevinfu1717](https://github.com/kevinfu1717) |
-| 20 | 189.1 | [TowerToSky](https://github.com/TowerToSky) |
-| 21 | 184.3 | [wanghuzhen](https://github.com/wanghuzhen) |
-| 22 | 184.3 | [geoyee](https://github.com/geoyee) |
-| 23 | 183.2 | [QiuKaiyyds](https://github.com/QiuKaiyyds) |
-| 24 | 173.9 | [gold2018](https://github.com/gold2018) |
-| 25 | 167.4 | [XS30](https://github.com/XS30) |
-| 26 | 160.7 | [sqcn](https://github.com/sqcn) |
-| 27 | 159.6 | [unseenme](https://github.com/unseenme) |
-| 28 | 130.2 | [Fly-hub](https://github.com/Fly-hub) |
-| 29 | 127.9 | [edencfc](https://github.com/edencfc) |
-| 30 | 125.1 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
-| 31 | 121.2 | [yangzepeng0516](https://github.com/yangzepeng0516) |
-| 32 | 120.0 | [miraiwk](https://github.com/miraiwk) |
-| 33 | 112.7 | [qeebeast7](https://github.com/qeebeast7) |
-| 34 | 99.1 | [corn886-debug](https://github.com/corn886-debug) |
-| 35 | 92.7 | [wonke](https://github.com/wonke) |
-| 36 | 83.5 | [lmc6](https://github.com/lmc6) |
-| 37 | 80.0 | [yangguohao](https://github.com/yangguohao) |
-| 38 | 75.5 | [Samoyed-yeah](https://github.com/Samoyed-yeah) |
-| 39 | 49.7 | [Shelly111111](https://github.com/Shelly111111) |
-| 40 | 46.1 | [Zhaobo19](https://github.com/Zhaobo19) |
-| 41 | 37.9 | [YuBCS-Ma](https://github.com/YuBCS-Ma) |
-| 42 | 36.7 | [cjh3020889729](https://github.com/cjh3020889729) |
-| 43 | 12.0 | [mmmahhhhe](https://github.com/mmmahhhhe) |
+| 1 | 5560.0 | [AgentMaker](https://github.com/AgentMaker) |
+| 2 | 2470.0 | [yeyupiaoling](https://github.com/yeyupiaoling) |
+| 3 | 2012.7 | [ninetailskim](https://github.com/ninetailskim) |
+| 4 | 1717.5 | [sunyuqian1997](https://github.com/sunyuqian1997) |
+| 5 | 1432.2 | [dephrast](https://github.com/dephrast) |
+| 6 | 1155.2 | [jm12138](https://github.com/jm12138) |
+| 7 | 974.1 | [thomas-yanxin](https://github.com/thomas-yanxin) |
+| 8 | 834.3 | [Attackzzw](https://github.com/Attackzzw) |
+| 9 | 570.0 | [GuoQuanhao](https://github.com/GuoQuanhao) |
+| 10 | 478.6 | [HighCWu](https://github.com/HighCWu) |
+| 11 | 477.3 | [jhcgt4869](https://github.com/jhcgt4869) |
+| 12 | 355.9 | [ITerydh](https://github.com/ITerydh) |
+| 13 | 289.6 | [unseenme](https://github.com/unseenme) |
+| 14 | 289.5 | [zbp-xxxp](https://github.com/zbp-xxxp) |
+| 15 | 282.8 | [leigangblog](https://github.com/leigangblog) |
+| 16 | 259.9 | [EastSmith](https://github.com/EastSmith) |
+| 17 | 244.2 | [wobushihuair](https://github.com/wobushihuair) |
+| 18 | 244.0 | [1084667371](https://github.com/1084667371) |
+| 19 | 215.2 | [hchhtc123](https://github.com/hchhtc123) |
+| 20 | 202.0 | [kevinfu1717](https://github.com/kevinfu1717) |
+| 21 | 200.8 | [TowerToSky](https://github.com/TowerToSky) |
+| 22 | 190.8 | [wanghuzhen](https://github.com/wanghuzhen) |
+| 23 | 190.8 | [geoyee](https://github.com/geoyee) |
+| 24 | 189.6 | [QiuKaiyyds](https://github.com/QiuKaiyyds) |
+| 25 | 179.4 | [gold2018](https://github.com/gold2018) |
+| 26 | 172.8 | [XS30](https://github.com/XS30) |
+| 27 | 165.2 | [sqcn](https://github.com/sqcn) |
+| 28 | 140.7 | [Fly-hub](https://github.com/Fly-hub) |
+| 29 | 131.3 | [yangzepeng0516](https://github.com/yangzepeng0516) |
+| 30 | 130.7 | [edencfc](https://github.com/edencfc) |
+| 31 | 130.0 | [miraiwk](https://github.com/miraiwk) |
+| 32 | 128.2 | [GT-ZhangAcer](https://github.com/GT-ZhangAcer) |
+| 33 | 113.5 | [qeebeast7](https://github.com/qeebeast7) |
+| 34 | 99.7 | [corn886-debug](https://github.com/corn886-debug) |
+| 35 | 93.3 | [wonke](https://github.com/wonke) |
+| 36 | 90.0 | [yangguohao](https://github.com/yangguohao) |
+| 37 | 84.2 | [lmc6](https://github.com/lmc6) |
+| 38 | 76.1 | [Samoyed-yeah](https://github.com/Samoyed-yeah) |
+| 39 | 75.9 | [YuBCS-Ma](https://github.com/YuBCS-Ma) |
+| 40 | 50.2 | [Shelly111111](https://github.com/Shelly111111) |
+| 41 | 47.2 | [Zhaobo19](https://github.com/Zhaobo19) |
+| 42 | 37.1 | [cjh3020889729](https://github.com/cjh3020889729) |
+| 43 | 12.1 | [mmmahhhhe](https://github.com/mmmahhhhe) |
 | 44 | 4.7 | [zhangxixi1225](https://github.com/zhangxixi1225) |
 
 [^_^]: GT的特殊标识符B-结束  
