@@ -194,12 +194,13 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 35 | 90.0 | [unseenme](https://github.com/unseenme) |
 | 36 | 83.1 | [lmc6](https://github.com/lmc6) |
 | 37 | 80.0 | [yangguohao](https://github.com/yangguohao) |
-| 38 | 49.2 | [Shelly111111](https://github.com/Shelly111111) |
-| 39 | 45.8 | [Zhaobo19](https://github.com/Zhaobo19) |
-| 40 | 37.6 | [YuBCS-Ma](https://github.com/YuBCS-Ma) |
-| 41 | 36.5 | [cjh3020889729](https://github.com/cjh3020889729) |
-| 42 | 11.9 | [mmmahhhhe](https://github.com/mmmahhhhe) |
-| 43 | 4.6 | [zhangxixi1225](https://github.com/zhangxixi1225) |
+| 38 | 75.1 | [Samoyed-yeah](https://github.com/Samoyed-yeah) |
+| 39 | 49.2 | [Shelly111111](https://github.com/Shelly111111) |
+| 40 | 45.8 | [Zhaobo19](https://github.com/Zhaobo19) |
+| 41 | 37.6 | [YuBCS-Ma](https://github.com/YuBCS-Ma) |
+| 42 | 36.5 | [cjh3020889729](https://github.com/cjh3020889729) |
+| 43 | 11.9 | [mmmahhhhe](https://github.com/mmmahhhhe) |
+| 44 | 4.6 | [zhangxixi1225](https://github.com/zhangxixi1225) |
 
 [^_^]: GT的特殊标识符B-结束  
   
