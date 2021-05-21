@@ -1,4 +1,7 @@
-# WAVE SUMMIT最受欢迎的开发者开源项目评选
+# 【已结束】WAVE SUMMIT最受欢迎的开发者开源项目评选
+
+> Tips:年末还会有项目评选，等你哦~
+
 [![更新情况](https://github.com/Awesome-DeepLearning/WAVESUMMIT-OPT/actions/workflows/main.yml/badge.svg)](https://github.com/Awesome-DeepLearning/WAVESUMMIT-OPT/actions/workflows/main.yml)
 
 WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国家工程实验室与百度联合主办。继去年WAVE SUMMI最受欢迎的开发者开源项目评选后，飞桨社区中涌现出了更多优质的开源项目，众多开发者深入平台核心，用技术和努力在社区中撰写着精彩开源篇章。
@@ -62,10 +65,7 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 > 活动时间&安排  
 5月X日公布已报名的所有开源项目初选结果，此后将会更新每日最新入围的开源项目列表和积分榜单，直至5月20日0点项目评估结束。
 
-## 【每日更新】截止最后一次commit提交时间的入围项目列表
-完整列表明日更新  
-
-完整列表详见：[https://github.com/Awesome-DeepLearning/WAVE_SUMMIT_Ranking_List](https://github.com/Awesome-DeepLearning/WAVE_SUMMIT_Ranking_List)  
+## 【最终榜单】截止最后一次commit提交时间的入围项目列表
 
 [^_^]: GT的特殊标识符A  
         
@@ -145,13 +145,10 @@ WAVE SUMMIT 2021深度学习开发者峰会，由深度学习技术及应用国�
 | 72 | 80 | [AlphaZero Gomoku](https://github.com/EastSmith/AlphaZero_Gomoku_PaddlePaddle) |
 
 [^_^]: GT的特殊标识符A-结束  
-  
-  
 
 
-## 【每日更新】 积分榜
+## 【最终榜单】 积分榜
 
-完整榜单详见：[https://github.com/Awesome-DeepLearning/WAVE_SUMMIT_Ranking_List](https://github.com/Awesome-DeepLearning/WAVE_SUMMIT_Ranking_List) 
 
 [^_^]: GT的特殊标识符B  
 
