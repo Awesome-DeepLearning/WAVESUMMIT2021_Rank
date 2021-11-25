@@ -1,19 +1,19 @@
 # WAVE SUMMIT2021+最受欢迎的开发者开源项目评选
 
 ## 排行榜
-<font color='red'>暂无报名信息</font>，快戳[点击报名](https://iwenjuan.baidu.com/?code=l32sbk)来做第一个吃螃蟹的人吧~
 
 ### 项目积分排名
 
 | 排名 | 项目名称 | 项目简介 | GitHub链接 |  项目得分 |
 | -------- | -------- | -------- | -------- | -------- |
-| 1     | 暂无     | 暂无     | 暂无     | |
-| 2     | 暂无     | 暂无     | 暂无     | |
-| 3     | 暂无     | 暂无     | 暂无     | |
-| 4     | 暂无     | 暂无     | 暂无     | |
-| 5     | 暂无     | 暂无     | 暂无     | |
+| 1     | 油画生成     |  基于PaintTransformer开发的无监督油画生成器，可将图像轻松转换为油画风格。    | https://github.com/wzmsltw/PaintTransformer     |  1567 |
+| 2     | 星际终端     | 深度学习与元宇宙也能擦出火花，或许你的“身边”真的有外星人。     | https://github.com/kevinfu1717/SuperInterstellarTerminal     | 894 |
+| 3     | PPASR语音识别     | 由夜雨飘零亲自撰写的产业级语音识别工具包     | https://github.com/yeyupiaoling/PPASR     | 883 |
+| 4     | EISeg     | 数据集半自动标注工具     | https://github.com/PaddleCV-SIG/EISeg     | 798 |
+| 5     | AI合成大西瓜     | 运用强化学习算法DQN来实现AI合成大西瓜，实现真有手就行     | https://github.com/Sharpiless/play-daxigua-using-Reinforcement-Learning     | 608 |
 
 ### 个人积分排名
+
 
 | 排名 | GitHub ID | 项目得分 | 共建得分（PR、Star等） | 个人得分 | 
 | -------- | -------- | -------- | -------- | -------- |
