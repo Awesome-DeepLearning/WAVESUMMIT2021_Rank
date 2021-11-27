@@ -66,13 +66,12 @@
 
 ### 个人积分排名（Top50）
 
-
 | 排名 | GitHub ID | 个人得分 |
 | -------- | -------- | -------- |
 | 1 | ninetailskim | 8328 |
 | 2 | thomas-yanxin | 5677 |
 | 3 | livingbody | 5308 |
-| 4 | geoyee | 3839 |
+| 4 | geoyee | 3835 |
 | 5 | jhcgt4869 | 2783 |
 | 6 | AP-Kai | 2356 |
 | 7 | ITerydh | 2037 |
