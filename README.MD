@@ -4,28 +4,28 @@
 
 ### 项目积分排名（Top50）
 
-> 排行榜初始化完毕，分数略有变动，非本年度更新项目则会有一定降权，上次更新时间：2021.12.3 12：00
+> 排行榜初始化完毕，分数略有变动，非本年度更新项目则会有一定降权，上次更新时间：2021.12.6 16：00
 
 | 排名 | 项目名称 | Star数量 | 项目得分 | 项目简介 |
 | -------- | -------- | -------- | -------- | -------- |
 | 1 | [AgentMaker/Paddle-Image-Models...](https://github.com/AgentMaker/Paddle-Image-Models) | 124 | 872 | A PaddlePaddle version image model zoo. |
-| 2 | [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) | 65 | 858 | 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support. |
-| 3 | [yeyupiaoling/PPASR](https://github.com/yeyupiaoling/PPASR) | 50 | 837 | 基于PaddlePaddle2实现端到端中文语音识别，从入门到实战，超简单的入门案例，超实用的企业项目。 |
-| 4 | [shibing624/pycorrector](https://github.com/shibing624/pycorrector) | 2817 | 830 | pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，Seq2Seq_Attention，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。 |
-| 5 | [thomas-yanxin/Smart_container](https://github.com/thomas-yanxin/Smart_container) | 12 | 821 | ��“袋鼯麻麻——智能购物平台”能够精准地定位识别每一个商品，并且能够返回完整地购物清单及顾客应付的实际商品总价格，极大地降低零售行业实际运营过程中巨大的人力成本，提升零售行业无人化、自动化、智能化水平。 |
-| 6 | [yeyupiaoling/PaddlePaddle-Deep...](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) | 227 | 741 | 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。支持Windows，Linux下训练和预测，支持Nvidia Jetson开发板预测。 |
+| 2 | [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) | 65 | 855 | 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support. |
+| 3 | [shibing624/pycorrector](https://github.com/shibing624/pycorrector) | 2817 | 830 | pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，Seq2Seq_Attention，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。 |
+| 4 | [thomas-yanxin/Smart_container](https://github.com/thomas-yanxin/Smart_container) | 12 | 783 | ��“袋鼯麻麻——智能购物平台”能够精准地定位识别每一个商品，并且能够返回完整地购物清单及顾客应付的实际商品总价格，极大地降低零售行业实际运营过程中巨大的人力成本，提升零售行业无人化、自动化、智能化水平。 |
+| 5 | [yeyupiaoling/PaddlePaddle-Deep...](https://github.com/yeyupiaoling/PaddlePaddle-DeepSpeech) | 227 | 730 | 基于PaddlePaddle实现的语音识别，中文语音识别。项目完善，识别效果好。支持Windows，Linux下训练和预测，支持Nvidia Jetson开发板预测。 |
+| 6 | [yeyupiaoling/PPASR](https://github.com/yeyupiaoling/PPASR) | 50 | 708 | 基于PaddlePaddle2实现端到端中文语音识别，从入门到实战，超简单的入门案例，超实用的企业项目。 |
 | 7 | [nuaaceieyty/Paddle-YOLOv2](https://github.com/nuaaceieyty/Paddle-YOLOv2) | 1 | 544 | nan |
 | 8 | [AgentMaker/Paddle-RLBooks](https://github.com/AgentMaker/Paddle-RLBooks) | 109 | 504 | Paddle-RLBooks is a reinforcement learning code study guide based on pure PaddlePaddle. |
 | 9 | [AgentMaker/AgentEncryption](https://github.com/AgentMaker/AgentEncryption) | 1 | 497 | 飞桨模型加密库 |
-| 10 | [AgentMaker/PaTTA](https://github.com/AgentMaker/PaTTA) | 100 | 492 | A test times augmentation toolkit based on paddle2.0. |
+| 10 | [AgentMaker/PaTTA](https://github.com/AgentMaker/PaTTA) | 100 | 491 | A test times augmentation toolkit based on paddle2.0. |
 | 11 | [AgentMaker/ru-dalle-paddle](https://github.com/AgentMaker/ru-dalle-paddle) | 13 | 443 | Generate images from texts. In Russian. In PaddlePaddle |
 | 12 | [geoyee/PdRSCD](https://github.com/geoyee/PdRSCD) | 33 | 436 | 基于『飞桨』的遥感变化检测工具（Remote sensing change detection tool based on『PaddlePaddle』） |
-| 13 | [HighCWu/anime_biggan_toy](https://github.com/HighCWu/anime_biggan_toy) | 102 | 424 | Generate Amazing Anime Pictures With BigGAN. Just Have Fun !!! |
-| 14 | [HighCWu/stylegan2-pytorch2padd...](https://github.com/HighCWu/stylegan2-pytorch2paddle) | 7 | 408 | Convert StyleGAN2 PyTorch to PaddlePaddle |
-| 15 | [AgentMaker/PaddleQuickInferenc...](https://github.com/AgentMaker/PaddleQuickInference) | 25 | 399 | 一个基于 Paddle Inference 封装的用于快速部署的高层 API  |
-| 16 | [yeyupiaoling/LearnPaddle](https://github.com/yeyupiaoling/LearnPaddle) | 325 | 394 | PaddlePaddle V2版本系列教程，博客专栏： |
-| 17 | [thomas-yanxin/thomas-yanxin.gi...](https://github.com/thomas-yanxin/thomas-yanxin.github.com) | 0 | 372 | nan |
-| 18 | [thomas-yanxin/the-eye-knows-th...](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) | 49 | 365 | 慧眼识垃圾系统——垃圾分类全套技术方案 |
+| 13 | [HighCWu/stylegan2-pytorch2padd...](https://github.com/HighCWu/stylegan2-pytorch2paddle) | 7 | 408 | Convert StyleGAN2 PyTorch to PaddlePaddle |
+| 14 | [AgentMaker/PaddleQuickInferenc...](https://github.com/AgentMaker/PaddleQuickInference) | 25 | 399 | 一个基于 Paddle Inference 封装的用于快速部署的高层 API  |
+| 15 | [yeyupiaoling/LearnPaddle](https://github.com/yeyupiaoling/LearnPaddle) | 325 | 394 | PaddlePaddle V2版本系列教程，博客专栏： |
+| 16 | [thomas-yanxin/thomas-yanxin.gi...](https://github.com/thomas-yanxin/thomas-yanxin.github.com) | 0 | 372 | nan |
+| 17 | [thomas-yanxin/the-eye-knows-th...](https://github.com/thomas-yanxin/the-eye-knows-the-garbage) | 49 | 363 | 慧眼识垃圾系统——垃圾分类全套技术方案 |
+| 18 | [HighCWu/anime_biggan_toy](https://github.com/HighCWu/anime_biggan_toy) | 102 | 360 | Generate Amazing Anime Pictures With BigGAN. Just Have Fun !!! |
 | 19 | [nuaaceieyty/Paddle-YOLOv4](https://github.com/nuaaceieyty/Paddle-YOLOv4) | 0 | 350 | nan |
 | 20 | [yeyupiaoling/VoiceprintRecogni...](https://github.com/yeyupiaoling/VoiceprintRecognition-PaddlePaddle) | 29 | 339 | 使用PaddlePaddle实现声纹识别 |
 | 21 | [ninetailskim/DodgeFace](https://github.com/ninetailskim/DodgeFace) | 98 | 331 | nan |
@@ -35,8 +35,8 @@
 | 25 | [yeyupiaoling/LearnPaddle2](https://github.com/yeyupiaoling/LearnPaddle2) | 140 | 309 | PaddlePaddle Fluid 版本系列教程，CSDN博客专栏： |
 | 26 | [justld/EspnetV2_paddle](https://github.com/justld/EspnetV2_paddle) | 0 | 305 | paddle espnetv2 复现 |
 | 27 | [JiehangXie/Landscape-Heath-Sco...](https://github.com/JiehangXie/Landscape-Heath-Score) | 12 | 302 | A tool for evaluating landscape health benefits and supporting evidence-based design |
-| 28 | [yeyupiaoling/ClassificationFor...](https://github.com/yeyupiaoling/ClassificationForAndroid) | 73 | 299 | 在Android使用深度学习模型实现图像识别，本项目提供了多种使用方式，使用到的框架如下：Tensorflow Lite、Paddle Lite、MNN、TNN |
-| 29 | [AgentMaker/PAPC](https://github.com/AgentMaker/PAPC) | 53 | 298 | PAPC is a deep learning for point clouds platform based on pure PaddlePaddle |
+| 28 | [AgentMaker/PAPC](https://github.com/AgentMaker/PAPC) | 53 | 298 | PAPC is a deep learning for point clouds platform based on pure PaddlePaddle |
+| 29 | [yeyupiaoling/ClassificationFor...](https://github.com/yeyupiaoling/ClassificationForAndroid) | 73 | 297 | 在Android使用深度学习模型实现图像识别，本项目提供了多种使用方式，使用到的框架如下：Tensorflow Lite、Paddle Lite、MNN、TNN |
 | 30 | [miemie2013/Paddle-PPYOLO](https://github.com/miemie2013/Paddle-PPYOLO) | 9 | 289 | Paddle2.0动态图版PPYOLO, 45.1%box AP. |
 | 31 | [justld/ENCNet_paddle](https://github.com/justld/ENCNet_paddle) | 1 | 288 | reproduction of ENCNet |
 | 32 | [AgentMaker/Paddle-IMSP](https://github.com/AgentMaker/Paddle-IMSP) | 26 | 280 | An Image Search and Pair system base on PaddlePaddle. |
@@ -64,31 +64,32 @@
 
 | 排名 | GitHub ID | 项目得分 | 共建得分（PR、Star...） | 总得分 |
 | -------- | -------- | -------- | -------- | -------- |
-| 1 | yeyupiaoling | 6692 | 110 | 6802 |
-| 2 | livingbody | 4253 | 446 | 4699 |
-| 3 | geoyee | 3063 | 990 | 4053 |
+| 1 | yeyupiaoling | 6550 | 102 | 6652 |
+| 2 | livingbody | 4253 | 445 | 4698 |
+| 3 | geoyee | 3061 | 980 | 4041 |
 | 4 | ninetailskim | 3745 | 183 | 3928 |
-| 5 | thomas-yanxin | 3099 | 816 | 3915 |
-| 6 | AP-Kai | 2211 | 388 | 2599 |
-| 7 | HighCWu | 2165 | 414 | 2579 |
+| 5 | thomas-yanxin | 3059 | 806 | 3865 |
+| 6 | AP-Kai | 2191 | 385 | 2576 |
+| 7 | HighCWu | 2062 | 412 | 2474 |
 | 8 | shibing624 | 1790 | 58 | 1848 |
 | 9 | justld | 1728 | 57 | 1785 |
-| 10 | WangRongsheng | 1397 | 386 | 1783 |
-| 11 | ITerydh | 1235 | 454 | 1689 |
-| 12 | jhcgt4869 | 967 | 538 | 1505 |
-| 13 | nuaaceieyty | 1199 | 244 | 1443 |
+| 10 | WangRongsheng | 1397 | 383 | 1780 |
+| 11 | ITerydh | 1235 | 451 | 1686 |
+| 12 | jhcgt4869 | 967 | 527 | 1494 |
+| 13 | nuaaceieyty | 1199 | 242 | 1441 |
 | 14 | miemie2013 | 1279 | 76 | 1355 |
-| 15 | richarddddd198 | 1058 | 297 | 1355 |
-| 16 | hchhtc123 | 533 | 717 | 1250 |
+| 15 | richarddddd198 | 1058 | 296 | 1354 |
+| 16 | hchhtc123 | 533 | 711 | 1244 |
 | 17 | Xingyu-Romantic | 931 | 0 | 931 |
-| 18 | DeepGeGe | 749 | 105 | 854 |
-| 19 | JiehangXie | 514 | 104 | 618 |
+| 18 | DeepGeGe | 749 | 104 | 853 |
+| 19 | JiehangXie | 514 | 103 | 617 |
 | 20 | zhangjin12138 | 447 | 0 | 447 |
 | 21 | Fhy001 | 145 | 7 | 152 |
 | 22 | cursky | 0 | 0 | 数据异常 |
 | 23 | Moloyiker | 0 | 0 | 数据异常 |
 | 24 | AgentMaker | 0 | 0 | 数据异常 |
 | 25 | 210616 | 0 | 0 | 数据异常 |
+
 
 
 
