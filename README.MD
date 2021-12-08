@@ -4,11 +4,11 @@
 
 ### 项目积分排名（Top50）
 
-> 排行榜初始化完毕，分数略有变动，非本年度更新项目则会有一定降权，上次更新时间：2021.12.6 16：00
+> 排行榜初始化完毕，分数略有变动，非本年度更新项目则会有一定降权，上次更新时间：2021.12.8 12：00
 
 | 排名 | 项目名称 | Star数量 | 项目得分 | 项目简介 |
 | -------- | -------- | -------- | -------- | -------- |
-| 1 | [AgentMaker/Paddle-Image-Models...](https://github.com/AgentMaker/Paddle-Image-Models) | 124 | 872 | A PaddlePaddle version image model zoo. |
+| 1 | [AgentMaker/Paddle-Image-Models...](https://github.com/AgentMaker/Paddle-Image-Models) | 124 | 869 | A PaddlePaddle version image model zoo. |
 | 2 | [AgentMaker/AgentOCR](https://github.com/AgentMaker/AgentOCR) | 65 | 855 | 一个多语言支持、易使用的 OCR 项目。An easy-to-use OCR project with multilingual support. |
 | 3 | [shibing624/pycorrector](https://github.com/shibing624/pycorrector) | 2817 | 830 | pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，Seq2Seq_Attention，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。 |
 | 4 | [thomas-yanxin/Smart_container](https://github.com/thomas-yanxin/Smart_container) | 12 | 783 | ��“袋鼯麻麻——智能购物平台”能够精准地定位识别每一个商品，并且能够返回完整地购物清单及顾客应付的实际商品总价格，极大地降低零售行业实际运营过程中巨大的人力成本，提升零售行业无人化、自动化、智能化水平。 |
@@ -60,35 +60,37 @@
 | 50 | [Xingyu-Romantic/Xingyu-Romanti...](https://github.com/Xingyu-Romantic/Xingyu-Romantic.github.io) | 0 | 203 | nan |
 
 
+
 ## 个人榜单排名
 
 | 排名 | GitHub ID | 项目得分 | 共建得分（PR、Star...） | 总得分 |
 | -------- | -------- | -------- | -------- | -------- |
 | 1 | yeyupiaoling | 6550 | 102 | 6652 |
-| 2 | livingbody | 4253 | 445 | 4698 |
-| 3 | geoyee | 3061 | 980 | 4041 |
+| 2 | livingbody | 4253 | 443 | 4696 |
+| 3 | geoyee | 3061 | 979 | 4040 |
 | 4 | ninetailskim | 3745 | 183 | 3928 |
-| 5 | thomas-yanxin | 3059 | 806 | 3865 |
-| 6 | AP-Kai | 2191 | 385 | 2576 |
-| 7 | HighCWu | 2062 | 412 | 2474 |
+| 5 | thomas-yanxin | 3059 | 800 | 3859 |
+| 6 | AP-Kai | 2173 | 384 | 2557 |
+| 7 | HighCWu | 2062 | 406 | 2468 |
 | 8 | shibing624 | 1790 | 58 | 1848 |
 | 9 | justld | 1728 | 57 | 1785 |
-| 10 | WangRongsheng | 1397 | 383 | 1780 |
-| 11 | ITerydh | 1235 | 451 | 1686 |
-| 12 | jhcgt4869 | 967 | 527 | 1494 |
-| 13 | nuaaceieyty | 1199 | 242 | 1441 |
+| 10 | WangRongsheng | 1397 | 376 | 1773 |
+| 11 | ITerydh | 1235 | 450 | 1685 |
+| 12 | jhcgt4869 | 967 | 526 | 1493 |
+| 13 | nuaaceieyty | 1199 | 241 | 1440 |
 | 14 | miemie2013 | 1279 | 76 | 1355 |
-| 15 | richarddddd198 | 1058 | 296 | 1354 |
-| 16 | hchhtc123 | 533 | 711 | 1244 |
+| 15 | richarddddd198 | 1056 | 295 | 1351 |
+| 16 | hchhtc123 | 533 | 710 | 1243 |
 | 17 | Xingyu-Romantic | 931 | 0 | 931 |
 | 18 | DeepGeGe | 749 | 104 | 853 |
-| 19 | JiehangXie | 514 | 103 | 617 |
+| 19 | JiehangXie | 514 | 102 | 616 |
 | 20 | zhangjin12138 | 447 | 0 | 447 |
 | 21 | Fhy001 | 145 | 7 | 152 |
 | 22 | cursky | 0 | 0 | 数据异常 |
 | 23 | Moloyiker | 0 | 0 | 数据异常 |
 | 24 | AgentMaker | 0 | 0 | 数据异常 |
 | 25 | 210616 | 0 | 0 | 数据异常 |
+
 
 
 
