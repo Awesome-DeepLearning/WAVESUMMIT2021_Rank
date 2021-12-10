@@ -4,7 +4,8 @@
 
 ### 项目积分排名（Top50）
 
-> 排行榜初始化完毕，分数略有变动，非本年度更新项目则会有一定降权，上次更新时间：2021.12.10 0：00
+> 排行榜初始化完毕，分数略有变动，非本年度更新项目则会有一定降权，上次更新时间：2021.12.10 11：00  
+
 | 排名 | 项目名称 | Star数量 | 项目得分 | 项目简介 |
 | -------- | -------- | -------- | -------- | -------- |
 | 1 | [AgentMaker/Paddle-Image-Models...](https://github.com/AgentMaker/Paddle-Image-Models) | 124 | 869.0 | A PaddlePaddle version image model zoo. |
