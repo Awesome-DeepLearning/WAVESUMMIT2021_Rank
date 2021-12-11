@@ -71,7 +71,7 @@
 | 2 | WhiteFireFox | 7171 | 324 | 7495 |
 | 3 | yeyupiaoling | 7084 | 95 | 7179 |
 | 4 | livingbody | 4451 | 443 | 4894 |
-| 5 | geoyee | 3061 | 962 | 4023 |
+| 5 | geoyee | 3061 | 961 | 4022 |
 | 6 | ninetailskim | 3745 | 183 | 3928 |
 | 7 | thomas-yanxin | 3134 | 787 | 3921 |
 | 8 | BeyondYourself | 3435 | 102 | 3537 |
@@ -80,15 +80,15 @@
 | 11 | shibing624 | 1730 | 55 | 1785 |
 | 12 | justld | 1728 | 57 | 1785 |
 | 13 | WangRongsheng | 1397 | 370 | 1767 |
-| 14 | ITerydh | 1235 | 449 | 1684 |
+| 14 | ITerydh | 1235 | 448 | 1683 |
 | 15 | miemie2013 | 1450 | 76 | 1526 |
 | 16 | jhcgt4869 | 967 | 519 | 1486 |
 | 17 | nuaaceieyty | 1199 | 241 | 1440 |
 | 18 | richarddddd198 | 1056 | 295 | 1351 |
-| 19 | hchhtc123 | 533 | 703 | 1236 |
+| 19 | hchhtc123 | 533 | 702 | 1235 |
 | 20 | Wongziseoi | 747 | 261 | 1008 |
 | 21 | Xingyu-Romantic | 928 | 0 | 928 |
-| 22 | DeepGeGe | 559 | 94 | 653 |
+| 22 | DeepGeGe | 557 | 94 | 651 |
 | 23 | JiehangXie | 514 | 102 | 616 |
 | 24 | zhangjin12138 | 447 | 0 | 447 |
 | 25 | Sqhttwl | 221 | 145 | 366 |
@@ -110,7 +110,6 @@
 | 41 | Dauntless-Wind | 0 | 0 | 数据异常 |
 | 42 | AgentMaker | 0 | 0 | 数据异常 |
 | 43 | 210616 | 0 | 0 | 数据异常 |
-
 
 
 
